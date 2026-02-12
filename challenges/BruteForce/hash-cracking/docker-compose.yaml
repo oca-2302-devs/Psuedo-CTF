@@ -1,0 +1,9 @@
+services:
+  linux:
+    build: .
+    container_name: hash_cracking
+    hostname: katoctf
+    ports:
+      - "22:22"
+    tty: true
+    stdin_open: true
