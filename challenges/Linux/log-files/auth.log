@@ -1,0 +1,2004 @@
+Feb 12 09:00:05 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:00:09 katoctf systemd: Started Session 8.
+Feb 12 09:00:11 katoctf CRON[885]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:00:16 katoctf sshd[884]: Failed password for guest from 192.168.1.15 port 17788 ssh2
+Feb 12 09:00:21 katoctf systemd: Started Session 10.
+Feb 12 09:00:24 katoctf sshd[785]: Failed password for kato from 192.168.1.40 port 28974 ssh2
+Feb 12 09:00:27 katoctf CRON[502]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:00:29 katoctf sshd[207]: Failed password for kato from 192.168.1.42 port 64395 ssh2
+Feb 12 09:00:34 katoctf sshd[474]: Failed password for ubuntu from 192.168.1.13 port 8408 ssh2
+Feb 12 09:00:37 katoctf sshd[649]: Failed password for admin from 192.168.1.12 port 13537 ssh2
+Feb 12 09:00:41 katoctf CRON[464]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:00:44 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:00:46 katoctf sshd[989]: Failed password for ubuntu from 192.168.1.13 port 9438 ssh2
+Feb 12 09:00:50 katoctf CRON[455]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:00:53 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:00:54 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:00:55 katoctf CRON[765]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:00:57 katoctf sshd[538]: Failed password for admin from 192.168.1.23 port 17412 ssh2
+Feb 12 09:01:02 katoctf sshd[898]: Failed password for guest from 192.168.1.12 port 38652 ssh2
+Feb 12 09:01:06 katoctf systemd: Started Session 6.
+Feb 12 09:01:09 katoctf systemd: Started Session 6.
+Feb 12 09:01:11 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:13 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:18 katoctf CRON[555]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:19 katoctf systemd: Started Session 19.
+Feb 12 09:01:20 katoctf CRON[848]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:25 katoctf CRON[356]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:30 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:31 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:35 katoctf CRON[721]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:36 katoctf sshd[694]: Failed password for www-data from 192.168.1.27 port 2386 ssh2
+Feb 12 09:01:41 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:46 katoctf sshd[891]: Failed password for kato from 192.168.1.30 port 25563 ssh2
+Feb 12 09:01:48 katoctf CRON[757]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:51 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:01:52 katoctf CRON[939]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:01:55 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:02:00 katoctf systemd: Started Session 16.
+Feb 12 09:02:05 katoctf systemd: Started Session 10.
+Feb 12 09:02:09 katoctf systemd: Started Session 14.
+Feb 12 09:02:13 katoctf systemd: Started Session 14.
+Feb 12 09:02:16 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:02:21 katoctf sshd[275]: Failed password for guest from 192.168.1.13 port 36311 ssh2
+Feb 12 09:02:25 katoctf systemd: Started Session 13.
+Feb 12 09:02:29 katoctf systemd: Started Session 11.
+Feb 12 09:02:34 katoctf sshd[474]: Failed password for ubuntu from 192.168.1.8 port 38164 ssh2
+Feb 12 09:02:36 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:02:39 katoctf CRON[141]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:02:40 katoctf sshd[698]: Failed password for ubuntu from 192.168.1.13 port 48444 ssh2
+Feb 12 09:02:42 katoctf CRON[728]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:02:47 katoctf systemd: Started Session 2.
+Feb 12 09:02:48 katoctf systemd: Started Session 3.
+Feb 12 09:02:50 katoctf sshd[577]: Failed password for www-data from 192.168.1.10 port 57898 ssh2
+Feb 12 09:02:54 katoctf systemd: Started Session 15.
+Feb 12 09:02:59 katoctf systemd: Started Session 18.
+Feb 12 09:03:01 katoctf CRON[960]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:03:02 katoctf systemd: Started Session 16.
+Feb 12 09:03:07 katoctf systemd: Started Session 1.
+Feb 12 09:03:10 katoctf systemd: Started Session 14.
+Feb 12 09:03:14 katoctf CRON[728]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:03:15 katoctf CRON[890]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:03:16 katoctf sshd[834]: Failed password for ubuntu from 192.168.1.33 port 12357 ssh2
+Feb 12 09:03:21 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:03:23 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:03:25 katoctf systemd: Started Session 16.
+Feb 12 09:03:27 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:03:30 katoctf sshd[771]: Failed password for kato from 192.168.1.21 port 40370 ssh2
+Feb 12 09:03:35 katoctf systemd: Started Session 15.
+Feb 12 09:03:39 katoctf sshd[506]: Failed password for ubuntu from 192.168.1.47 port 27233 ssh2
+Feb 12 09:03:44 katoctf sshd[104]: Failed password for www-data from 192.168.1.3 port 19978 ssh2
+Feb 12 09:03:48 katoctf CRON[715]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:03:49 katoctf systemd: Started Session 20.
+Feb 12 09:03:53 katoctf systemd: Started Session 5.
+Feb 12 09:03:55 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:03:56 katoctf CRON[268]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:00 katoctf CRON[749]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:03 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:04:05 katoctf CRON[905]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:10 katoctf sshd[247]: Failed password for kato from 192.168.1.7 port 47271 ssh2
+Feb 12 09:04:13 katoctf sshd[479]: Failed password for guest from 192.168.1.37 port 8829 ssh2
+Feb 12 09:04:16 katoctf systemd: Started Session 6.
+Feb 12 09:04:19 katoctf systemd: Started Session 13.
+Feb 12 09:04:21 katoctf systemd: Started Session 11.
+Feb 12 09:04:23 katoctf sshd[531]: Failed password for ubuntu from 192.168.1.25 port 49143 ssh2
+Feb 12 09:04:25 katoctf sshd[837]: Failed password for www-data from 192.168.1.22 port 49133 ssh2
+Feb 12 09:04:28 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:04:30 katoctf systemd: Started Session 13.
+Feb 12 09:04:35 katoctf CRON[649]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:36 katoctf sshd[293]: Failed password for ubuntu from 192.168.1.19 port 58462 ssh2
+Feb 12 09:04:41 katoctf systemd: Started Session 5.
+Feb 12 09:04:44 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:04:45 katoctf systemd: Started Session 4.
+Feb 12 09:04:48 katoctf CRON[518]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:50 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:04:52 katoctf CRON[689]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:04:55 katoctf sshd[966]: Failed password for kato from 192.168.1.10 port 32103 ssh2
+Feb 12 09:05:00 katoctf CRON[973]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:05:02 katoctf CRON[764]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:05:05 katoctf sshd[743]: Failed password for ubuntu from 192.168.1.49 port 63649 ssh2
+Feb 12 09:05:07 katoctf CRON[836]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:05:12 katoctf systemd: Started Session 15.
+Feb 12 09:05:14 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:05:15 katoctf sshd[984]: Failed password for admin from 192.168.1.35 port 20444 ssh2
+Feb 12 09:05:19 katoctf sshd[125]: Failed password for kato from 192.168.1.26 port 3254 ssh2
+Feb 12 09:05:23 katoctf sshd[634]: Failed password for www-data from 192.168.1.6 port 20145 ssh2
+Feb 12 09:05:27 katoctf systemd: Started Session 8.
+Feb 12 09:05:32 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:05:33 katoctf CRON[876]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:05:36 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:05:41 katoctf sshd[405]: Failed password for kato from 192.168.1.25 port 16646 ssh2
+Feb 12 09:05:46 katoctf systemd: Started Session 14.
+Feb 12 09:05:49 katoctf sshd[528]: Failed password for www-data from 192.168.1.32 port 12439 ssh2
+Feb 12 09:05:54 katoctf CRON[781]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:05:58 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:02 katoctf systemd: Started Session 19.
+Feb 12 09:06:06 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:09 katoctf systemd: Started Session 7.
+Feb 12 09:06:12 katoctf sshd[637]: Failed password for ubuntu from 192.168.1.8 port 6224 ssh2
+Feb 12 09:06:16 katoctf systemd: Started Session 2.
+Feb 12 09:06:19 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:20 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:24 katoctf systemd: Started Session 4.
+Feb 12 09:06:25 katoctf sshd[414]: Failed password for www-data from 192.168.1.28 port 44748 ssh2
+Feb 12 09:06:30 katoctf CRON[326]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:06:31 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:36 katoctf sshd[899]: Failed password for www-data from 192.168.1.32 port 6867 ssh2
+Feb 12 09:06:37 katoctf systemd: Started Session 8.
+Feb 12 09:06:40 katoctf systemd: Started Session 11.
+Feb 12 09:06:41 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:43 katoctf CRON[298]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:06:44 katoctf CRON[259]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:06:46 katoctf sshd[533]: Failed password for guest from 192.168.1.38 port 55744 ssh2
+Feb 12 09:06:50 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:52 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:06:54 katoctf CRON[974]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:06:57 katoctf CRON[750]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:07:00 katoctf sshd[154]: Failed password for kato from 192.168.1.49 port 25889 ssh2
+Feb 12 09:07:04 katoctf CRON[470]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:07:06 katoctf sshd[246]: Failed password for kato from 192.168.1.44 port 58535 ssh2
+Feb 12 09:07:08 katoctf sshd[729]: Failed password for ubuntu from 192.168.1.23 port 47575 ssh2
+Feb 12 09:07:13 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:17 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:19 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:23 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:26 katoctf CRON[799]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:07:30 katoctf CRON[922]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:07:33 katoctf systemd: Started Session 1.
+Feb 12 09:07:38 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:43 katoctf systemd: Started Session 2.
+Feb 12 09:07:46 katoctf systemd: Started Session 18.
+Feb 12 09:07:51 katoctf CRON[368]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:07:53 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:07:58 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:00 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:01 katoctf CRON[745]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:03 katoctf CRON[737]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:08 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:12 katoctf CRON[935]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:14 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:15 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:16 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:17 katoctf systemd: Started Session 5.
+Feb 12 09:08:19 katoctf systemd: Started Session 2.
+Feb 12 09:08:23 katoctf CRON[623]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:27 katoctf systemd: Started Session 5.
+Feb 12 09:08:31 katoctf sshd[936]: Failed password for kato from 192.168.1.42 port 5206 ssh2
+Feb 12 09:08:36 katoctf CRON[656]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:38 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:39 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:40 katoctf systemd: Started Session 13.
+Feb 12 09:08:43 katoctf sshd[627]: Failed password for guest from 192.168.1.27 port 32478 ssh2
+Feb 12 09:08:47 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:08:48 katoctf CRON[422]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:52 katoctf CRON[910]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:08:56 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:09:00 katoctf systemd: Started Session 17.
+Feb 12 09:09:03 katoctf systemd: Started Session 12.
+Feb 12 09:09:06 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:09:07 katoctf CRON[577]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:11 katoctf sshd[328]: Failed password for www-data from 192.168.1.22 port 9729 ssh2
+Feb 12 09:09:15 katoctf CRON[946]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:16 katoctf systemd: Started Session 17.
+Feb 12 09:09:19 katoctf systemd: Started Session 12.
+Feb 12 09:09:21 katoctf CRON[850]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:23 katoctf sshd[597]: Failed password for guest from 192.168.1.34 port 42614 ssh2
+Feb 12 09:09:28 katoctf CRON[765]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:33 katoctf CRON[685]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:36 katoctf systemd: Started Session 14.
+Feb 12 09:09:37 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:09:38 katoctf sshd[347]: Failed password for ubuntu from 192.168.1.22 port 16236 ssh2
+Feb 12 09:09:39 katoctf CRON[657]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:40 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:09:45 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:09:47 katoctf sshd[475]: Failed password for admin from 192.168.1.20 port 61585 ssh2
+Feb 12 09:09:49 katoctf CRON[588]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:09:51 katoctf systemd: Started Session 14.
+Feb 12 09:09:56 katoctf systemd: Started Session 5.
+Feb 12 09:10:01 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:03 katoctf systemd: Started Session 12.
+Feb 12 09:10:07 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:10 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:13 katoctf CRON[646]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:10:14 katoctf systemd: Started Session 3.
+Feb 12 09:10:17 katoctf sshd[538]: Failed password for ubuntu from 192.168.1.43 port 61985 ssh2
+Feb 12 09:10:21 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:25 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:28 katoctf systemd: Started Session 15.
+Feb 12 09:10:33 katoctf sshd[119]: Failed password for guest from 192.168.1.24 port 11759 ssh2
+Feb 12 09:10:37 katoctf CRON[911]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:10:41 katoctf sshd[600]: Failed password for ubuntu from 192.168.1.42 port 17455 ssh2
+Feb 12 09:10:46 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:10:49 katoctf sshd[703]: Failed password for guest from 192.168.1.20 port 46350 ssh2
+Feb 12 09:10:52 katoctf systemd: Started Session 15.
+Feb 12 09:10:57 katoctf sshd[290]: Failed password for admin from 192.168.1.35 port 18747 ssh2
+Feb 12 09:10:58 katoctf sshd[635]: Failed password for ubuntu from 192.168.1.22 port 6765 ssh2
+Feb 12 09:11:01 katoctf sshd[856]: Failed password for www-data from 192.168.1.11 port 41137 ssh2
+Feb 12 09:11:05 katoctf CRON[859]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:11:08 katoctf sshd[166]: Failed password for www-data from 192.168.1.8 port 3292 ssh2
+Feb 12 09:11:09 katoctf sshd[140]: Failed password for guest from 192.168.1.41 port 44336 ssh2
+Feb 12 09:11:12 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:11:14 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:11:18 katoctf CRON[732]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:11:21 katoctf sshd[693]: Failed password for admin from 192.168.1.11 port 5477 ssh2
+Feb 12 09:11:26 katoctf systemd: Started Session 14.
+Feb 12 09:11:28 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:11:32 katoctf sshd[273]: Failed password for guest from 192.168.1.24 port 20695 ssh2
+Feb 12 09:11:37 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:11:42 katoctf systemd: Started Session 14.
+Feb 12 09:11:47 katoctf CRON[415]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:11:50 katoctf systemd: Started Session 11.
+Feb 12 09:11:52 katoctf systemd: Started Session 6.
+Feb 12 09:11:56 katoctf systemd: Started Session 12.
+Feb 12 09:11:57 katoctf CRON[691]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:11:59 katoctf CRON[634]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:04 katoctf sshd[303]: Failed password for guest from 192.168.1.46 port 37018 ssh2
+Feb 12 09:12:08 katoctf systemd: Started Session 19.
+Feb 12 09:12:09 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:12:10 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:12:13 katoctf systemd: Started Session 19.
+Feb 12 09:12:16 katoctf CRON[654]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:18 katoctf CRON[653]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:22 katoctf systemd: Started Session 1.
+Feb 12 09:12:24 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:12:28 katoctf sshd[186]: Failed password for admin from 192.168.1.40 port 42578 ssh2
+Feb 12 09:12:29 katoctf systemd: Started Session 12.
+Feb 12 09:12:32 katoctf CRON[522]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:35 katoctf sshd[275]: Failed password for kato from 192.168.1.43 port 5987 ssh2
+Feb 12 09:12:39 katoctf sshd[274]: Failed password for ubuntu from 192.168.1.21 port 31744 ssh2
+Feb 12 09:12:44 katoctf systemd: Started Session 10.
+Feb 12 09:12:45 katoctf CRON[550]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:48 katoctf CRON[378]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:12:51 katoctf sshd[905]: Failed password for kato from 192.168.1.44 port 23414 ssh2
+Feb 12 09:12:55 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:12:57 katoctf systemd: Started Session 14.
+Feb 12 09:13:02 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:05 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:10 katoctf systemd: Started Session 13.
+Feb 12 09:13:12 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:17 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:21 katoctf CRON[651]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:13:22 katoctf CRON[267]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:13:25 katoctf systemd: Started Session 2.
+Feb 12 09:13:28 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:29 katoctf systemd: Started Session 17.
+Feb 12 09:13:34 katoctf systemd: Started Session 12.
+Feb 12 09:13:36 katoctf systemd: Started Session 12.
+Feb 12 09:13:39 katoctf sshd[805]: Failed password for ubuntu from 192.168.1.30 port 22208 ssh2
+Feb 12 09:13:41 katoctf sshd[153]: Failed password for ubuntu from 192.168.1.3 port 2666 ssh2
+Feb 12 09:13:45 katoctf CRON[204]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:13:47 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:48 katoctf systemd: Started Session 20.
+Feb 12 09:13:49 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:13:51 katoctf systemd: Started Session 10.
+Feb 12 09:13:53 katoctf sshd[995]: Failed password for ubuntu from 192.168.1.8 port 59976 ssh2
+Feb 12 09:13:57 katoctf CRON[516]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:13:58 katoctf systemd: Started Session 1.
+Feb 12 09:14:03 katoctf sshd[391]: Failed password for www-data from 192.168.1.44 port 56361 ssh2
+Feb 12 09:14:05 katoctf CRON[268]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:14:08 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:14:09 katoctf systemd: Started Session 19.
+Feb 12 09:14:11 katoctf systemd: Started Session 9.
+Feb 12 09:14:12 katoctf systemd: Started Session 7.
+Feb 12 09:14:16 katoctf sshd[713]: Failed password for admin from 192.168.1.16 port 33262 ssh2
+Feb 12 09:14:18 katoctf CRON[777]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:14:22 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:14:26 katoctf sshd[379]: Failed password for www-data from 192.168.1.26 port 18794 ssh2
+Feb 12 09:14:31 katoctf sshd[990]: Failed password for kato from 192.168.1.42 port 18364 ssh2
+Feb 12 09:14:32 katoctf sshd[821]: Failed password for ubuntu from 192.168.1.9 port 52485 ssh2
+Feb 12 09:14:34 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:14:36 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:14:38 katoctf systemd: Started Session 8.
+Feb 12 09:14:39 katoctf CRON[925]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:14:41 katoctf CRON[212]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:14:45 katoctf systemd: Started Session 17.
+Feb 12 09:14:47 katoctf sshd[764]: Failed password for www-data from 192.168.1.34 port 7378 ssh2
+Feb 12 09:14:52 katoctf systemd: Started Session 5.
+Feb 12 09:14:55 katoctf sshd[811]: Failed password for www-data from 192.168.1.43 port 36868 ssh2
+Feb 12 09:14:59 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:01 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:06 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:09 katoctf CRON[999]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:15:10 katoctf sshd[896]: Failed password for guest from 192.168.1.19 port 1982 ssh2
+Feb 12 09:15:12 katoctf systemd: Started Session 12.
+Feb 12 09:15:14 katoctf sshd[170]: Failed password for www-data from 192.168.1.41 port 18319 ssh2
+Feb 12 09:15:17 katoctf systemd: Started Session 1.
+Feb 12 09:15:18 katoctf CRON[287]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:15:20 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:22 katoctf sshd[698]: Failed password for www-data from 192.168.1.3 port 22749 ssh2
+Feb 12 09:15:26 katoctf sshd[293]: Failed password for www-data from 192.168.1.8 port 57921 ssh2
+Feb 12 09:15:30 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:33 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:37 katoctf systemd: Started Session 2.
+Feb 12 09:15:40 katoctf sshd[225]: Failed password for www-data from 192.168.1.25 port 10038 ssh2
+Feb 12 09:15:43 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:46 katoctf CRON[519]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:15:49 katoctf CRON[986]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:15:52 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:15:54 katoctf CRON[902]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:15:57 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:01 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:02 katoctf systemd: Started Session 15.
+Feb 12 09:16:06 katoctf sshd[519]: Failed password for www-data from 192.168.1.35 port 14737 ssh2
+Feb 12 09:16:08 katoctf sshd[391]: Failed password for www-data from 192.168.1.33 port 35335 ssh2
+Feb 12 09:16:10 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:12 katoctf CRON[344]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:16:14 katoctf systemd: Started Session 6.
+Feb 12 09:16:19 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:21 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:22 katoctf systemd: Started Session 10.
+Feb 12 09:16:27 katoctf systemd: Started Session 8.
+Feb 12 09:16:29 katoctf CRON[467]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:16:31 katoctf systemd: Started Session 3.
+Feb 12 09:16:36 katoctf sshd[910]: Failed password for kato from 192.168.1.18 port 56223 ssh2
+Feb 12 09:16:41 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:46 katoctf CRON[803]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:16:51 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:53 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:16:57 katoctf sshd[209]: Failed password for ubuntu from 192.168.1.2 port 59064 ssh2
+Feb 12 09:16:59 katoctf sshd[204]: Failed password for www-data from 192.168.1.28 port 27393 ssh2
+Feb 12 09:17:01 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:04 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:08 katoctf sshd[800]: Failed password for ubuntu from 192.168.1.16 port 24657 ssh2
+Feb 12 09:17:13 katoctf systemd: Started Session 13.
+Feb 12 09:17:17 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:22 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:25 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:27 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:32 katoctf sshd[238]: Failed password for admin from 192.168.1.34 port 14476 ssh2
+Feb 12 09:17:37 katoctf CRON[447]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:17:40 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:45 katoctf sshd[372]: Failed password for www-data from 192.168.1.40 port 23698 ssh2
+Feb 12 09:17:46 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:47 katoctf sshd[382]: Failed password for ubuntu from 192.168.1.31 port 54065 ssh2
+Feb 12 09:17:50 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:17:53 katoctf sshd[609]: Failed password for guest from 192.168.1.46 port 16217 ssh2
+Feb 12 09:17:58 katoctf systemd: Started Session 11.
+Feb 12 09:18:01 katoctf systemd: Started Session 8.
+Feb 12 09:18:05 katoctf systemd: Started Session 12.
+Feb 12 09:18:06 katoctf systemd: Started Session 4.
+Feb 12 09:18:09 katoctf CRON[995]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:18:11 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:18:15 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:18:17 katoctf CRON[720]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:18:20 katoctf sshd[818]: Failed password for guest from 192.168.1.17 port 52964 ssh2
+Feb 12 09:18:21 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:18:23 katoctf CRON[485]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:18:27 katoctf systemd: Started Session 18.
+Feb 12 09:18:31 katoctf CRON[337]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:18:36 katoctf CRON[376]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:18:39 katoctf systemd: Started Session 11.
+Feb 12 09:18:41 katoctf systemd: Started Session 1.
+Feb 12 09:18:45 katoctf sshd[772]: Failed password for ubuntu from 192.168.1.18 port 50599 ssh2
+Feb 12 09:18:48 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:18:51 katoctf systemd: Started Session 9.
+Feb 12 09:18:55 katoctf sshd[390]: Failed password for www-data from 192.168.1.32 port 53024 ssh2
+Feb 12 09:18:57 katoctf systemd: Started Session 7.
+Feb 12 09:19:00 katoctf sshd[338]: Failed password for kato from 192.168.1.3 port 14529 ssh2
+Feb 12 09:19:01 katoctf CRON[724]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:19:04 katoctf systemd: Started Session 12.
+Feb 12 09:19:09 katoctf CRON[148]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:19:11 katoctf systemd: Started Session 8.
+Feb 12 09:19:15 katoctf systemd: Started Session 20.
+Feb 12 09:19:16 katoctf CRON[680]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:19:18 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:19:20 katoctf sshd[722]: Failed password for admin from 192.168.1.48 port 51177 ssh2
+Feb 12 09:19:23 katoctf CRON[692]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:19:27 katoctf systemd: Started Session 9.
+Feb 12 09:19:28 katoctf sshd[472]: Failed password for www-data from 192.168.1.30 port 21257 ssh2
+Feb 12 09:19:30 katoctf systemd: Started Session 16.
+Feb 12 09:19:33 katoctf systemd: Started Session 4.
+Feb 12 09:19:36 katoctf sshd[706]: Failed password for admin from 192.168.1.11 port 5823 ssh2
+Feb 12 09:19:37 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:19:39 katoctf systemd: Started Session 2.
+Feb 12 09:19:41 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:19:44 katoctf sshd[206]: Failed password for www-data from 192.168.1.15 port 14815 ssh2
+Feb 12 09:19:49 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:19:54 katoctf systemd: Started Session 7.
+Feb 12 09:19:55 katoctf sshd[315]: Failed password for guest from 192.168.1.11 port 37564 ssh2
+Feb 12 09:19:56 katoctf sshd[768]: Failed password for ubuntu from 192.168.1.5 port 33005 ssh2
+Feb 12 09:19:58 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:20:02 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:20:03 katoctf systemd: Started Session 10.
+Feb 12 09:20:08 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:20:13 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:20:15 katoctf CRON[937]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:18 katoctf sshd[252]: Failed password for admin from 192.168.1.39 port 3619 ssh2
+Feb 12 09:20:20 katoctf sshd[826]: Failed password for admin from 192.168.1.20 port 37621 ssh2
+Feb 12 09:20:21 katoctf CRON[880]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:23 katoctf systemd: Started Session 15.
+Feb 12 09:20:24 katoctf sshd[719]: Failed password for ubuntu from 192.168.1.37 port 9821 ssh2
+Feb 12 09:20:25 katoctf CRON[724]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:30 katoctf CRON[718]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:32 katoctf CRON[866]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:36 katoctf systemd: Started Session 11.
+Feb 12 09:20:37 katoctf CRON[156]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:38 katoctf CRON[832]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:43 katoctf systemd: Started Session 10.
+Feb 12 09:20:48 katoctf CRON[759]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:20:50 katoctf sshd[570]: Failed password for admin from 192.168.1.38 port 35402 ssh2
+Feb 12 09:20:55 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:20:59 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:01 katoctf systemd: Started Session 9.
+Feb 12 09:21:04 katoctf sshd[519]: Failed password for kato from 192.168.1.40 port 29889 ssh2
+Feb 12 09:21:05 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:10 katoctf systemd: Started Session 20.
+Feb 12 09:21:13 katoctf systemd: Started Session 5.
+Feb 12 09:21:15 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:16 katoctf systemd: Started Session 3.
+Feb 12 09:21:18 katoctf systemd: Started Session 19.
+Feb 12 09:21:23 katoctf systemd: Started Session 14.
+Feb 12 09:21:24 katoctf CRON[562]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:21:27 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:31 katoctf CRON[209]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:21:32 katoctf sshd[733]: Failed password for www-data from 192.168.1.12 port 14995 ssh2
+Feb 12 09:21:33 katoctf systemd: Started Session 16.
+Feb 12 09:21:36 katoctf sshd[378]: Failed password for kato from 192.168.1.2 port 34240 ssh2
+Feb 12 09:21:37 katoctf sshd[545]: Failed password for www-data from 192.168.1.39 port 18396 ssh2
+Feb 12 09:21:40 katoctf sshd[565]: Failed password for www-data from 192.168.1.36 port 20781 ssh2
+Feb 12 09:21:41 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:44 katoctf systemd: Started Session 3.
+Feb 12 09:21:48 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:21:53 katoctf sshd[794]: Failed password for www-data from 192.168.1.17 port 25392 ssh2
+Feb 12 09:21:58 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:22:03 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:22:04 katoctf sshd[456]: Failed password for kato from 192.168.1.24 port 61077 ssh2
+Feb 12 09:22:08 katoctf CRON[330]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:22:09 katoctf systemd: Started Session 12.
+Feb 12 09:22:14 katoctf sshd[250]: Failed password for kato from 192.168.1.45 port 55734 ssh2
+Feb 12 09:22:16 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:22:21 katoctf sshd[451]: Failed password for www-data from 192.168.1.20 port 3004 ssh2
+Feb 12 09:22:26 katoctf sshd[717]: Failed password for admin from 192.168.1.36 port 22792 ssh2
+Feb 12 09:22:31 katoctf sshd[952]: Failed password for guest from 192.168.1.39 port 59333 ssh2
+Feb 12 09:22:36 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:22:41 katoctf systemd: Started Session 10.
+Feb 12 09:22:44 katoctf CRON[115]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:22:45 katoctf systemd: Started Session 4.
+Feb 12 09:22:46 katoctf systemd: Started Session 12.
+Feb 12 09:22:48 katoctf systemd: Started Session 8.
+Feb 12 09:22:49 katoctf sshd[466]: Failed password for guest from 192.168.1.39 port 60966 ssh2
+Feb 12 09:22:51 katoctf sshd[445]: Failed password for admin from 192.168.1.9 port 61498 ssh2
+Feb 12 09:22:54 katoctf sshd[773]: Failed password for kato from 192.168.1.39 port 56885 ssh2
+Feb 12 09:22:58 katoctf sshd[404]: Failed password for kato from 192.168.1.48 port 32288 ssh2
+Feb 12 09:23:01 katoctf sshd[508]: Failed password for guest from 192.168.1.21 port 55075 ssh2
+Feb 12 09:23:04 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:23:09 katoctf systemd: Started Session 4.
+Feb 12 09:23:12 katoctf sshd[700]: Failed password for kato from 192.168.1.49 port 4337 ssh2
+Feb 12 09:23:17 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:23:19 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:23:23 katoctf CRON[998]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:23:25 katoctf sshd[272]: Failed password for www-data from 192.168.1.3 port 61535 ssh2
+Feb 12 09:23:26 katoctf CRON[334]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:23:29 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:23:33 katoctf systemd: Started Session 6.
+Feb 12 09:23:38 katoctf sshd[335]: Failed password for ubuntu from 192.168.1.2 port 51414 ssh2
+Feb 12 09:23:42 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:23:46 katoctf systemd: Started Session 13.
+Feb 12 09:23:51 katoctf sshd[745]: Failed password for admin from 192.168.1.30 port 59979 ssh2
+Feb 12 09:23:56 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:24:01 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:24:03 katoctf CRON[499]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:24:07 katoctf systemd: Started Session 13.
+Feb 12 09:24:10 katoctf systemd: Started Session 13.
+Feb 12 09:24:14 katoctf sshd[135]: Failed password for admin from 192.168.1.16 port 57302 ssh2
+Feb 12 09:24:15 katoctf sshd[427]: Failed password for ubuntu from 192.168.1.25 port 60644 ssh2
+Feb 12 09:24:19 katoctf sshd[134]: Failed password for www-data from 192.168.1.49 port 11945 ssh2
+Feb 12 09:24:24 katoctf sshd[339]: Failed password for kato from 192.168.1.33 port 30095 ssh2
+Feb 12 09:24:29 katoctf CRON[168]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:24:30 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:24:31 katoctf CRON[834]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:24:32 katoctf systemd: Started Session 19.
+Feb 12 09:24:37 katoctf systemd: Started Session 3.
+Feb 12 09:24:39 katoctf CRON[604]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:24:40 katoctf sshd[230]: Failed password for admin from 192.168.1.14 port 21419 ssh2
+Feb 12 09:24:43 katoctf sshd[710]: Failed password for kato from 192.168.1.31 port 28526 ssh2
+Feb 12 09:24:45 katoctf CRON[563]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:24:47 katoctf systemd: Started Session 17.
+Feb 12 09:24:52 katoctf sshd[452]: Failed password for www-data from 192.168.1.2 port 50932 ssh2
+Feb 12 09:24:57 katoctf sshd[338]: Failed password for ubuntu from 192.168.1.27 port 58166 ssh2
+Feb 12 09:24:59 katoctf systemd: Started Session 17.
+Feb 12 09:25:03 katoctf systemd: Started Session 12.
+Feb 12 09:25:05 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:25:07 katoctf systemd: Started Session 20.
+Feb 12 09:25:11 katoctf systemd: Started Session 16.
+Feb 12 09:25:12 katoctf systemd: Started Session 1.
+Feb 12 09:25:13 katoctf systemd: Started Session 11.
+Feb 12 09:25:15 katoctf sshd[473]: Failed password for guest from 192.168.1.21 port 13336 ssh2
+Feb 12 09:25:19 katoctf sshd[855]: Failed password for ubuntu from 192.168.1.11 port 53962 ssh2
+Feb 12 09:25:23 katoctf systemd: Started Session 10.
+Feb 12 09:25:28 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:25:31 katoctf CRON[948]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:25:36 katoctf systemd: Started Session 4.
+Feb 12 09:25:41 katoctf sshd[189]: Failed password for ubuntu from 192.168.1.42 port 55854 ssh2
+Feb 12 09:25:46 katoctf sshd[375]: Failed password for www-data from 192.168.1.28 port 34722 ssh2
+Feb 12 09:25:47 katoctf sshd[905]: Failed password for ubuntu from 192.168.1.28 port 2412 ssh2
+Feb 12 09:25:49 katoctf sshd[746]: Failed password for admin from 192.168.1.43 port 54147 ssh2
+Feb 12 09:25:50 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:25:53 katoctf CRON[716]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:25:56 katoctf sshd[770]: Failed password for www-data from 192.168.1.48 port 38907 ssh2
+Feb 12 09:25:58 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:25:59 katoctf CRON[337]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:26:01 katoctf CRON[868]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:26:02 katoctf systemd: Started Session 6.
+Feb 12 09:26:07 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:09 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:13 katoctf systemd: Started Session 13.
+Feb 12 09:26:16 katoctf sshd[280]: Failed password for guest from 192.168.1.44 port 31079 ssh2
+Feb 12 09:26:18 katoctf sshd[287]: Failed password for ubuntu from 192.168.1.8 port 38130 ssh2
+Feb 12 09:26:21 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:25 katoctf CRON[270]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:26:28 katoctf sshd[389]: Failed password for kato from 192.168.1.4 port 20552 ssh2
+Feb 12 09:26:30 katoctf CRON[949]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:26:32 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:33 katoctf sshd[247]: Failed password for www-data from 192.168.1.32 port 34910 ssh2
+Feb 12 09:26:38 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:41 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:43 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:48 katoctf sshd[614]: Failed password for ubuntu from 192.168.1.49 port 16202 ssh2
+Feb 12 09:26:50 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:26:55 katoctf systemd: Started Session 5.
+Feb 12 09:27:00 katoctf sshd[653]: Failed password for kato from 192.168.1.3 port 18659 ssh2
+Feb 12 09:27:04 katoctf sshd[514]: Failed password for ubuntu from 192.168.1.5 port 51968 ssh2
+Feb 12 09:27:07 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:27:11 katoctf CRON[743]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:12 katoctf sshd[535]: Failed password for kato from 192.168.1.26 port 4964 ssh2
+Feb 12 09:27:13 katoctf systemd: Started Session 7.
+Feb 12 09:27:15 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:27:16 katoctf sshd[248]: Failed password for www-data from 192.168.1.18 port 59686 ssh2
+Feb 12 09:27:19 katoctf CRON[396]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:24 katoctf sshd[733]: Failed password for guest from 192.168.1.32 port 56638 ssh2
+Feb 12 09:27:26 katoctf CRON[417]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:27 katoctf sshd[457]: Failed password for www-data from 192.168.1.27 port 52823 ssh2
+Feb 12 09:27:31 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:27:32 katoctf CRON[685]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:33 katoctf CRON[695]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:35 katoctf sshd[780]: Failed password for admin from 192.168.1.36 port 1573 ssh2
+Feb 12 09:27:38 katoctf CRON[413]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:27:41 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:27:44 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:27:49 katoctf sshd[130]: Failed password for www-data from 192.168.1.30 port 57553 ssh2
+Feb 12 09:27:53 katoctf sshd[152]: Failed password for guest from 192.168.1.15 port 8675 ssh2
+Feb 12 09:27:57 katoctf CRON[850]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:28:01 katoctf systemd: Started Session 14.
+Feb 12 09:28:03 katoctf sshd[711]: Failed password for ubuntu from 192.168.1.27 port 18042 ssh2
+Feb 12 09:28:05 katoctf CRON[544]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:28:08 katoctf sshd[409]: Failed password for kato from 192.168.1.29 port 13128 ssh2
+Feb 12 09:28:09 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:28:11 katoctf CRON[667]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:28:13 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:28:18 katoctf systemd: Started Session 3.
+Feb 12 09:28:23 katoctf sshd[119]: Failed password for www-data from 192.168.1.3 port 8809 ssh2
+Feb 12 09:28:25 katoctf systemd: Started Session 17.
+Feb 12 09:28:28 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:28:29 katoctf systemd: Started Session 15.
+Feb 12 09:28:34 katoctf systemd: Started Session 14.
+Feb 12 09:28:39 katoctf sshd[612]: Failed password for ubuntu from 192.168.1.47 port 23065 ssh2
+Feb 12 09:28:44 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:28:47 katoctf systemd: Started Session 2.
+Feb 12 09:28:51 katoctf systemd: Started Session 3.
+Feb 12 09:28:56 katoctf sshd[340]: Failed password for www-data from 192.168.1.8 port 42535 ssh2
+Feb 12 09:28:57 katoctf CRON[631]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:28:58 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:03 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:08 katoctf systemd: Started Session 6.
+Feb 12 09:29:11 katoctf systemd: Started Session 5.
+Feb 12 09:29:14 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:18 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:22 katoctf sshd[265]: Failed password for ubuntu from 192.168.1.13 port 48860 ssh2
+Feb 12 09:29:23 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:27 katoctf systemd: Started Session 11.
+Feb 12 09:29:32 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:34 katoctf sshd[454]: Failed password for www-data from 192.168.1.36 port 13503 ssh2
+Feb 12 09:29:35 katoctf systemd: Started Session 4.
+Feb 12 09:29:39 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:42 katoctf systemd: Started Session 17.
+Feb 12 09:29:47 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:48 katoctf CRON[170]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:29:50 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:52 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:53 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:29:57 katoctf CRON[754]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:29:59 katoctf sshd[922]: Failed password for kato from 192.168.1.8 port 56379 ssh2
+Feb 12 09:30:02 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:30:03 katoctf systemd: Started Session 11.
+Feb 12 09:30:04 katoctf sshd[325]: Failed password for www-data from 192.168.1.44 port 29432 ssh2
+Feb 12 09:30:07 katoctf systemd: Started Session 18.
+Feb 12 09:30:10 katoctf sshd[390]: Failed password for kato from 192.168.1.6 port 59804 ssh2
+Feb 12 09:30:15 katoctf systemd: Started Session 20.
+Feb 12 09:30:20 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:30:24 katoctf CRON[160]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:30:26 katoctf systemd: Started Session 8.
+Feb 12 09:30:29 katoctf systemd: Started Session 11.
+Feb 12 09:30:31 katoctf CRON[253]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:30:35 katoctf systemd: Started Session 6.
+Feb 12 09:30:38 katoctf sshd[143]: Failed password for kato from 192.168.1.40 port 18049 ssh2
+Feb 12 09:30:40 katoctf CRON[418]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:30:41 katoctf systemd: Started Session 18.
+Feb 12 09:30:43 katoctf CRON[503]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:30:44 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:30:46 katoctf sshd[813]: Failed password for ubuntu from 192.168.1.31 port 50068 ssh2
+Feb 12 09:30:50 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:30:54 katoctf sshd[352]: Failed password for guest from 192.168.1.30 port 29560 ssh2
+Feb 12 09:30:57 katoctf CRON[644]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:31:00 katoctf CRON[496]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:31:05 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:07 katoctf CRON[548]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:31:10 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:15 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:17 katoctf CRON[514]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:31:22 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:24 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:25 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:30 katoctf sshd[429]: Failed password for www-data from 192.168.1.18 port 55350 ssh2
+Feb 12 09:31:35 katoctf sshd[211]: Failed password for guest from 192.168.1.11 port 43317 ssh2
+Feb 12 09:31:40 katoctf sshd[547]: Failed password for ubuntu from 192.168.1.43 port 60137 ssh2
+Feb 12 09:31:42 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:45 katoctf systemd: Started Session 14.
+Feb 12 09:31:46 katoctf systemd: Started Session 3.
+Feb 12 09:31:47 katoctf CRON[914]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:31:49 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:51 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:31:54 katoctf sshd[666]: Failed password for guest from 192.168.1.44 port 64682 ssh2
+Feb 12 09:31:58 katoctf systemd: Started Session 10.
+Feb 12 09:32:01 katoctf CRON[574]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:32:05 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:32:10 katoctf sshd[366]: Failed password for www-data from 192.168.1.8 port 55813 ssh2
+Feb 12 09:32:15 katoctf sshd[280]: Failed password for guest from 192.168.1.26 port 13496 ssh2
+Feb 12 09:32:20 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:32:22 katoctf CRON[544]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:32:24 katoctf sshd[564]: Failed password for kato from 192.168.1.23 port 11384 ssh2
+Feb 12 09:32:27 katoctf sshd[592]: Failed password for guest from 192.168.1.25 port 55130 ssh2
+Feb 12 09:32:31 katoctf systemd: Started Session 9.
+Feb 12 09:32:33 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:32:38 katoctf systemd: Started Session 3.
+Feb 12 09:32:39 katoctf sshd[264]: Failed password for admin from 192.168.1.33 port 58739 ssh2
+Feb 12 09:32:44 katoctf sshd[740]: Failed password for kato from 192.168.1.32 port 5144 ssh2
+Feb 12 09:32:47 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:32:52 katoctf systemd: Started Session 16.
+Feb 12 09:32:53 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:32:55 katoctf sshd[655]: Failed password for ubuntu from 192.168.1.34 port 5479 ssh2
+Feb 12 09:32:59 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:04 katoctf sshd[306]: Failed password for www-data from 192.168.1.11 port 37193 ssh2
+Feb 12 09:33:09 katoctf systemd: Started Session 20.
+Feb 12 09:33:11 katoctf CRON[269]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:33:14 katoctf systemd: Started Session 10.
+Feb 12 09:33:15 katoctf sshd[687]: Failed password for www-data from 192.168.1.4 port 7174 ssh2
+Feb 12 09:33:20 katoctf sshd[306]: Failed password for guest from 192.168.1.43 port 53471 ssh2
+Feb 12 09:33:24 katoctf sshd[888]: Failed password for admin from 192.168.1.15 port 20123 ssh2
+Feb 12 09:33:25 katoctf systemd: Started Session 4.
+Feb 12 09:33:29 katoctf systemd: Started Session 19.
+Feb 12 09:33:30 katoctf systemd: Started Session 9.
+Feb 12 09:33:33 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:34 katoctf systemd: Started Session 5.
+Feb 12 09:33:37 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:40 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:41 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:42 katoctf systemd: Started Session 17.
+Feb 12 09:33:44 katoctf CRON[934]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:33:45 katoctf systemd: Started Session 12.
+Feb 12 09:33:48 katoctf systemd: Started Session 8.
+Feb 12 09:33:49 katoctf sshd[936]: Failed password for admin from 192.168.1.37 port 9884 ssh2
+Feb 12 09:33:51 katoctf sshd[567]: Failed password for guest from 192.168.1.13 port 45389 ssh2
+Feb 12 09:33:55 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:33:59 katoctf systemd: Started Session 16.
+Feb 12 09:34:03 katoctf sshd[525]: Failed password for www-data from 192.168.1.21 port 28844 ssh2
+Feb 12 09:34:08 katoctf CRON[546]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:10 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:34:11 katoctf systemd: Started Session 20.
+Feb 12 09:34:13 katoctf systemd: Started Session 8.
+Feb 12 09:34:16 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:34:18 katoctf sshd[950]: Failed password for ubuntu from 192.168.1.14 port 7920 ssh2
+Feb 12 09:34:21 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:34:23 katoctf systemd: Started Session 16.
+Feb 12 09:34:25 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:34:28 katoctf systemd: Started Session 18.
+Feb 12 09:34:31 katoctf CRON[477]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:32 katoctf sshd[780]: Failed password for guest from 192.168.1.3 port 38988 ssh2
+Feb 12 09:34:34 katoctf systemd: Started Session 4.
+Feb 12 09:34:38 katoctf sshd[868]: Failed password for ubuntu from 192.168.1.35 port 25297 ssh2
+Feb 12 09:34:39 katoctf sshd[129]: Failed password for www-data from 192.168.1.11 port 31409 ssh2
+Feb 12 09:34:42 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:34:44 katoctf CRON[795]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:45 katoctf CRON[244]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:50 katoctf systemd: Started Session 3.
+Feb 12 09:34:51 katoctf CRON[671]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:54 katoctf CRON[827]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:55 katoctf CRON[629]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:34:59 katoctf sshd[786]: Failed password for ubuntu from 192.168.1.4 port 65193 ssh2
+Feb 12 09:35:00 katoctf sshd[919]: Failed password for www-data from 192.168.1.37 port 8690 ssh2
+Feb 12 09:35:02 katoctf CRON[466]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:35:05 katoctf systemd: Started Session 7.
+Feb 12 09:35:10 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:35:11 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:35:16 katoctf systemd: Started Session 4.
+Feb 12 09:35:18 katoctf systemd: Started Session 2.
+Feb 12 09:35:20 katoctf sshd[103]: Failed password for admin from 192.168.1.38 port 43207 ssh2
+Feb 12 09:35:25 katoctf CRON[729]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:35:29 katoctf CRON[155]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:35:33 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:35:36 katoctf sshd[996]: Failed password for admin from 192.168.1.44 port 6274 ssh2
+Feb 12 09:35:37 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:35:38 katoctf CRON[879]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:35:43 katoctf systemd: Started Session 11.
+Feb 12 09:35:46 katoctf sshd[798]: Failed password for kato from 192.168.1.48 port 45636 ssh2
+Feb 12 09:35:51 katoctf systemd: Started Session 15.
+Feb 12 09:35:52 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:35:54 katoctf systemd: Started Session 3.
+Feb 12 09:35:56 katoctf systemd: Started Session 20.
+Feb 12 09:36:01 katoctf CRON[192]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:03 katoctf CRON[525]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:04 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:36:09 katoctf systemd: Started Session 17.
+Feb 12 09:36:11 katoctf systemd: Started Session 15.
+Feb 12 09:36:12 katoctf CRON[985]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:14 katoctf sshd[962]: Failed password for guest from 192.168.1.21 port 5513 ssh2
+Feb 12 09:36:19 katoctf systemd: Started Session 15.
+Feb 12 09:36:23 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:36:28 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:36:29 katoctf systemd: Started Session 12.
+Feb 12 09:36:32 katoctf CRON[603]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:37 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:36:42 katoctf sshd[790]: Failed password for admin from 192.168.1.31 port 39479 ssh2
+Feb 12 09:36:43 katoctf systemd: Started Session 4.
+Feb 12 09:36:45 katoctf systemd: Started Session 8.
+Feb 12 09:36:48 katoctf CRON[687]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:51 katoctf systemd: Started Session 2.
+Feb 12 09:36:55 katoctf CRON[931]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:36:57 katoctf CRON[657]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:01 katoctf systemd: Started Session 19.
+Feb 12 09:37:02 katoctf systemd: Started Session 14.
+Feb 12 09:37:05 katoctf CRON[471]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:10 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:37:11 katoctf CRON[652]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:13 katoctf systemd: Started Session 20.
+Feb 12 09:37:18 katoctf CRON[921]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:20 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:37:24 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:37:28 katoctf systemd: Started Session 17.
+Feb 12 09:37:31 katoctf CRON[233]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:34 katoctf systemd: Started Session 1.
+Feb 12 09:37:39 katoctf CRON[185]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:41 katoctf systemd: Started Session 6.
+Feb 12 09:37:44 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:37:49 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:37:54 katoctf CRON[608]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:37:57 katoctf sshd[929]: Failed password for ubuntu from 192.168.1.25 port 17715 ssh2
+Feb 12 09:38:00 katoctf sshd[828]: Failed password for admin from 192.168.1.34 port 8941 ssh2
+Feb 12 09:38:04 katoctf systemd: Started Session 16.
+Feb 12 09:38:08 katoctf systemd: Started Session 14.
+Feb 12 09:38:10 katoctf systemd: Started Session 16.
+Feb 12 09:38:11 katoctf systemd: Started Session 12.
+Feb 12 09:38:13 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:16 katoctf CRON[432]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:38:19 katoctf systemd: Started Session 16.
+Feb 12 09:38:21 katoctf sshd[205]: Failed password for guest from 192.168.1.8 port 27851 ssh2
+Feb 12 09:38:22 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:24 katoctf systemd: Started Session 14.
+Feb 12 09:38:27 katoctf CRON[998]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:38:29 katoctf sshd[689]: Failed password for admin from 192.168.1.22 port 1260 ssh2
+Feb 12 09:38:30 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:32 katoctf sshd[163]: Failed password for kato from 192.168.1.49 port 33781 ssh2
+Feb 12 09:38:33 katoctf CRON[610]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:38:34 katoctf CRON[445]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:38:37 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:38 katoctf CRON[399]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:38:43 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:47 katoctf systemd: Started Session 14.
+Feb 12 09:38:51 katoctf sshd[409]: Failed password for kato from 192.168.1.45 port 28374 ssh2
+Feb 12 09:38:52 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:38:56 katoctf CRON[283]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:39:01 katoctf systemd: Started Session 1.
+Feb 12 09:39:06 katoctf CRON[885]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:39:10 katoctf CRON[299]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:39:12 katoctf sshd[484]: Failed password for ubuntu from 192.168.1.27 port 40319 ssh2
+Feb 12 09:39:13 katoctf sshd[421]: Failed password for admin from 192.168.1.42 port 63852 ssh2
+Feb 12 09:39:14 katoctf sshd[686]: Failed password for admin from 192.168.1.27 port 26803 ssh2
+Feb 12 09:39:15 katoctf systemd: Started Session 19.
+Feb 12 09:39:20 katoctf CRON[417]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:39:23 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:39:26 katoctf systemd: Started Session 7.
+Feb 12 09:39:29 katoctf sshd[543]: Failed password for ubuntu from 192.168.1.29 port 42924 ssh2
+Feb 12 09:39:32 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:39:37 katoctf sshd[914]: Failed password for kato from 192.168.1.10 port 35601 ssh2
+Feb 12 09:39:39 katoctf sshd[450]: Failed password for ubuntu from 192.168.1.38 port 55079 ssh2
+Feb 12 09:39:40 katoctf sshd[302]: Failed password for www-data from 192.168.1.38 port 31188 ssh2
+Feb 12 09:39:41 katoctf systemd: Started Session 11.
+Feb 12 09:39:44 katoctf CRON[228]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:39:45 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:39:48 katoctf sshd[323]: Failed password for ubuntu from 192.168.1.45 port 38670 ssh2
+Feb 12 09:39:52 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:39:54 katoctf systemd: Started Session 18.
+Feb 12 09:39:56 katoctf sshd[643]: Failed password for ubuntu from 192.168.1.14 port 3406 ssh2
+Feb 12 09:39:59 katoctf sshd[740]: Failed password for ubuntu from 192.168.1.15 port 54614 ssh2
+Feb 12 09:40:00 katoctf CRON[661]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:40:04 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:40:09 katoctf sshd[964]: Failed password for ubuntu from 192.168.1.33 port 63654 ssh2
+Feb 12 09:40:11 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:40:15 katoctf systemd: Started Session 5.
+Feb 12 09:40:18 katoctf systemd: Started Session 12.
+Feb 12 09:40:21 katoctf systemd: Started Session 12.
+Feb 12 09:40:24 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:40:26 katoctf sshd[240]: Failed password for guest from 192.168.1.41 port 38050 ssh2
+Feb 12 09:40:31 katoctf CRON[851]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:40:32 katoctf systemd: Started Session 11.
+Feb 12 09:40:35 katoctf CRON[485]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:40:37 katoctf systemd: Started Session 19.
+Feb 12 09:40:42 katoctf sshd[686]: Failed password for guest from 192.168.1.44 port 9114 ssh2
+Feb 12 09:40:47 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:40:48 katoctf sshd[352]: Failed password for kato from 192.168.1.4 port 56610 ssh2
+Feb 12 09:40:53 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:40:57 katoctf CRON[115]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:41:00 katoctf CRON[874]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:41:04 katoctf sshd[546]: Failed password for kato from 192.168.1.31 port 35357 ssh2
+Feb 12 09:41:08 katoctf systemd: Started Session 7.
+Feb 12 09:41:10 katoctf sshd[909]: Failed password for admin from 192.168.1.26 port 13534 ssh2
+Feb 12 09:41:13 katoctf CRON[760]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:41:18 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:41:22 katoctf sshd[919]: Failed password for ubuntu from 192.168.1.31 port 59920 ssh2
+Feb 12 09:41:27 katoctf systemd: Started Session 16.
+Feb 12 09:41:32 katoctf sshd[295]: Failed password for guest from 192.168.1.43 port 34453 ssh2
+Feb 12 09:41:34 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:41:36 katoctf sshd[794]: Failed password for ubuntu from 192.168.1.13 port 15249 ssh2
+Feb 12 09:41:39 katoctf systemd: Started Session 17.
+Feb 12 09:41:44 katoctf CRON[407]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:41:49 katoctf systemd: Started Session 11.
+Feb 12 09:41:50 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:41:55 katoctf sshd[800]: Failed password for guest from 192.168.1.18 port 21922 ssh2
+Feb 12 09:41:59 katoctf CRON[409]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:02 katoctf CRON[897]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:05 katoctf CRON[230]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:06 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:42:07 katoctf CRON[608]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:12 katoctf systemd: Started Session 1.
+Feb 12 09:42:16 katoctf CRON[507]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:20 katoctf sshd[237]: Failed password for guest from 192.168.1.2 port 19350 ssh2
+Feb 12 09:42:23 katoctf CRON[863]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:26 katoctf sshd[793]: Failed password for kato from 192.168.1.7 port 40273 ssh2
+Feb 12 09:42:30 katoctf sshd[422]: Failed password for admin from 192.168.1.43 port 40339 ssh2
+Feb 12 09:42:31 katoctf sshd[573]: Failed password for kato from 192.168.1.39 port 32179 ssh2
+Feb 12 09:42:36 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:42:38 katoctf CRON[214]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:41 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:42:43 katoctf sshd[820]: Failed password for admin from 192.168.1.17 port 33052 ssh2
+Feb 12 09:42:46 katoctf CRON[889]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:47 katoctf CRON[708]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:42:48 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:42:52 katoctf systemd: Started Session 18.
+Feb 12 09:42:53 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:42:57 katoctf CRON[289]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:00 katoctf systemd: Started Session 16.
+Feb 12 09:43:01 katoctf systemd: Started Session 15.
+Feb 12 09:43:02 katoctf CRON[555]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:05 katoctf sshd[748]: Failed password for admin from 192.168.1.19 port 51381 ssh2
+Feb 12 09:43:08 katoctf systemd: Started Session 2.
+Feb 12 09:43:11 katoctf CRON[958]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:15 katoctf CRON[672]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:16 katoctf systemd: Started Session 18.
+Feb 12 09:43:19 katoctf sshd[230]: Failed password for ubuntu from 192.168.1.13 port 49926 ssh2
+Feb 12 09:43:23 katoctf CRON[691]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:24 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:43:26 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:43:30 katoctf CRON[252]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:35 katoctf systemd: Started Session 2.
+Feb 12 09:43:39 katoctf sshd[780]: Failed password for ubuntu from 192.168.1.24 port 12800 ssh2
+Feb 12 09:43:42 katoctf CRON[361]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:45 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:43:50 katoctf CRON[351]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:43:53 katoctf systemd: Started Session 4.
+Feb 12 09:43:57 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:43:58 katoctf systemd: Started Session 16.
+Feb 12 09:44:01 katoctf sshd[745]: Failed password for guest from 192.168.1.18 port 5174 ssh2
+Feb 12 09:44:02 katoctf CRON[888]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:06 katoctf systemd: Started Session 20.
+Feb 12 09:44:08 katoctf CRON[461]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:12 katoctf CRON[969]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:16 katoctf sshd[800]: Failed password for kato from 192.168.1.25 port 50025 ssh2
+Feb 12 09:44:19 katoctf sshd[724]: Failed password for admin from 192.168.1.22 port 14589 ssh2
+Feb 12 09:44:22 katoctf CRON[789]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:27 katoctf CRON[749]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:30 katoctf CRON[305]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:33 katoctf sshd[359]: Failed password for ubuntu from 192.168.1.6 port 23306 ssh2
+Feb 12 09:44:36 katoctf sshd[196]: Failed password for ubuntu from 192.168.1.34 port 4608 ssh2
+Feb 12 09:44:38 katoctf systemd: Started Session 15.
+Feb 12 09:44:40 katoctf sshd[567]: Failed password for kato from 192.168.1.39 port 56924 ssh2
+Feb 12 09:44:45 katoctf systemd: Started Session 20.
+Feb 12 09:44:49 katoctf sshd[494]: Failed password for www-data from 192.168.1.9 port 37384 ssh2
+Feb 12 09:44:52 katoctf systemd: Started Session 1.
+Feb 12 09:44:54 katoctf CRON[122]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:44:56 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:44:57 katoctf systemd: Started Session 18.
+Feb 12 09:45:02 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:45:04 katoctf sshd[318]: Failed password for guest from 192.168.1.20 port 47300 ssh2
+Feb 12 09:45:08 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:45:13 katoctf systemd: Started Session 17.
+Feb 12 09:45:15 katoctf CRON[749]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:45:18 katoctf sshd[487]: Failed password for www-data from 192.168.1.22 port 27501 ssh2
+Feb 12 09:45:19 katoctf systemd: Started Session 17.
+Feb 12 09:45:22 katoctf sshd[397]: Failed password for www-data from 192.168.1.45 port 26872 ssh2
+Feb 12 09:45:25 katoctf CRON[744]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:45:28 katoctf sshd[116]: Failed password for ubuntu from 192.168.1.46 port 11037 ssh2
+Feb 12 09:45:30 katoctf CRON[814]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:45:31 katoctf CRON[682]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:45:35 katoctf systemd: Started Session 4.
+Feb 12 09:45:38 katoctf systemd: Started Session 8.
+Feb 12 09:45:39 katoctf systemd: Started Session 18.
+Feb 12 09:45:41 katoctf systemd: Started Session 13.
+Feb 12 09:45:45 katoctf CRON[577]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:45:50 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:45:54 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:45:58 katoctf systemd: Started Session 12.
+Feb 12 09:46:02 katoctf sshd[568]: Failed password for guest from 192.168.1.34 port 56929 ssh2
+Feb 12 09:46:05 katoctf systemd: Started Session 9.
+Feb 12 09:46:09 katoctf CRON[222]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:10 katoctf sshd[748]: Failed password for www-data from 192.168.1.46 port 53335 ssh2
+Feb 12 09:46:12 katoctf systemd: Started Session 17.
+Feb 12 09:46:17 katoctf sshd[693]: Failed password for ubuntu from 192.168.1.9 port 48244 ssh2
+Feb 12 09:46:20 katoctf CRON[137]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:24 katoctf CRON[928]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:29 katoctf CRON[417]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:31 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:46:35 katoctf CRON[468]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:38 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:46:41 katoctf sshd[952]: Failed password for kato from 192.168.1.12 port 44736 ssh2
+Feb 12 09:46:46 katoctf sshd[604]: Failed password for kato from 192.168.1.18 port 35923 ssh2
+Feb 12 09:46:47 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:46:48 katoctf sshd[988]: Failed password for guest from 192.168.1.19 port 43505 ssh2
+Feb 12 09:46:50 katoctf CRON[464]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:46:53 katoctf sshd[731]: Failed password for guest from 192.168.1.17 port 61414 ssh2
+Feb 12 09:46:55 katoctf systemd: Started Session 15.
+Feb 12 09:46:57 katoctf systemd: Started Session 7.
+Feb 12 09:47:01 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:47:05 katoctf CRON[601]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:10 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:47:12 katoctf systemd: Started Session 4.
+Feb 12 09:47:14 katoctf CRON[836]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:15 katoctf CRON[300]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:17 katoctf systemd: Started Session 4.
+Feb 12 09:47:21 katoctf CRON[846]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:26 katoctf CRON[792]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:29 katoctf CRON[326]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:30 katoctf CRON[121]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:47:34 katoctf systemd: Started Session 15.
+Feb 12 09:47:38 katoctf sshd[692]: Failed password for admin from 192.168.1.38 port 17650 ssh2
+Feb 12 09:47:41 katoctf sshd[457]: Failed password for admin from 192.168.1.26 port 23712 ssh2
+Feb 12 09:47:44 katoctf systemd: Started Session 5.
+Feb 12 09:47:46 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:47:47 katoctf sshd[522]: Failed password for kato from 192.168.1.40 port 46165 ssh2
+Feb 12 09:47:48 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:47:51 katoctf sshd[375]: Failed password for kato from 192.168.1.2 port 16625 ssh2
+Feb 12 09:47:56 katoctf systemd: Started Session 5.
+Feb 12 09:47:59 katoctf CRON[671]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:02 katoctf sshd[702]: Failed password for admin from 192.168.1.23 port 60028 ssh2
+Feb 12 09:48:07 katoctf CRON[271]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:12 katoctf sshd[498]: Failed password for ubuntu from 192.168.1.13 port 17712 ssh2
+Feb 12 09:48:14 katoctf systemd: Started Session 4.
+Feb 12 09:48:19 katoctf CRON[295]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:23 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:48:26 katoctf sshd[545]: Failed password for ubuntu from 192.168.1.23 port 59570 ssh2
+Feb 12 09:48:31 katoctf CRON[402]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:33 katoctf sshd[869]: Failed password for admin from 192.168.1.27 port 37192 ssh2
+Feb 12 09:48:34 katoctf sshd[210]: Failed password for guest from 192.168.1.35 port 26219 ssh2
+Feb 12 09:48:39 katoctf CRON[808]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:41 katoctf systemd: Started Session 18.
+Feb 12 09:48:44 katoctf CRON[413]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:48 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:48:49 katoctf CRON[696]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:48:54 katoctf sshd[533]: Failed password for ubuntu from 192.168.1.13 port 13417 ssh2
+Feb 12 09:48:56 katoctf CRON[696]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:01 katoctf CRON[619]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:03 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:04 katoctf systemd: Started Session 20.
+Feb 12 09:49:07 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:08 katoctf systemd: Started Session 19.
+Feb 12 09:49:11 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:12 katoctf CRON[239]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:14 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:16 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:19 katoctf CRON[897]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:24 katoctf systemd: Started Session 8.
+Feb 12 09:49:25 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:26 katoctf sshd[550]: Failed password for www-data from 192.168.1.18 port 7585 ssh2
+Feb 12 09:49:29 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:32 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:37 katoctf CRON[828]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:38 katoctf systemd: Started Session 4.
+Feb 12 09:49:39 katoctf CRON[470]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:42 katoctf sshd[388]: Failed password for admin from 192.168.1.9 port 23625 ssh2
+Feb 12 09:49:46 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:49:47 katoctf CRON[524]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:51 katoctf CRON[595]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:53 katoctf sshd[117]: Failed password for kato from 192.168.1.27 port 42223 ssh2
+Feb 12 09:49:56 katoctf CRON[473]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:49:57 katoctf systemd: Started Session 15.
+Feb 12 09:50:00 katoctf CRON[929]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:01 katoctf CRON[360]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:02 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:04 katoctf CRON[421]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:05 katoctf CRON[107]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:10 katoctf CRON[128]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:15 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:19 katoctf systemd: Started Session 8.
+Feb 12 09:50:21 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:23 katoctf sshd[718]: Failed password for guest from 192.168.1.2 port 33469 ssh2
+Feb 12 09:50:26 katoctf systemd: Started Session 1.
+Feb 12 09:50:29 katoctf CRON[279]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:34 katoctf CRON[829]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:38 katoctf CRON[979]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:39 katoctf systemd: Started Session 19.
+Feb 12 09:50:40 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:43 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:45 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:47 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:48 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:50:53 katoctf sshd[406]: Failed password for ubuntu from 192.168.1.30 port 43754 ssh2
+Feb 12 09:50:55 katoctf CRON[666]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:50:56 katoctf sshd[394]: Failed password for kato from 192.168.1.42 port 1234 ssh2
+Feb 12 09:50:59 katoctf CRON[180]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:51:03 katoctf sshd[248]: Failed password for admin from 192.168.1.37 port 57928 ssh2
+Feb 12 09:51:06 katoctf systemd: Started Session 4.
+Feb 12 09:51:11 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:51:13 katoctf sshd[374]: Failed password for admin from 192.168.1.34 port 59948 ssh2
+Feb 12 09:51:15 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:51:16 katoctf CRON[525]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:51:18 katoctf CRON[770]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:51:21 katoctf sshd[861]: Failed password for ubuntu from 192.168.1.9 port 29235 ssh2
+Feb 12 09:51:22 katoctf systemd: Started Session 11.
+Feb 12 09:51:27 katoctf CRON[998]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:51:32 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:51:34 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:51:39 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:51:43 katoctf systemd: Started Session 18.
+Feb 12 09:51:44 katoctf CRON[817]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:51:48 katoctf systemd: Started Session 14.
+Feb 12 09:51:51 katoctf systemd: Started Session 16.
+Feb 12 09:51:54 katoctf systemd: Started Session 4.
+Feb 12 09:51:58 katoctf CRON[953]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:01 katoctf CRON[205]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:03 katoctf CRON[436]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:08 katoctf CRON[254]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:11 katoctf CRON[272]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:12 katoctf sshd[757]: Failed password for guest from 192.168.1.40 port 33322 ssh2
+Feb 12 09:52:15 katoctf systemd: Started Session 19.
+Feb 12 09:52:18 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:52:19 katoctf CRON[268]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:20 katoctf CRON[523]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:21 katoctf systemd: Started Session 8.
+Feb 12 09:52:22 katoctf systemd: Started Session 2.
+Feb 12 09:52:26 katoctf sshd[326]: Failed password for www-data from 192.168.1.12 port 18493 ssh2
+Feb 12 09:52:27 katoctf CRON[157]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:32 katoctf systemd: Started Session 19.
+Feb 12 09:52:36 katoctf systemd: Started Session 19.
+Feb 12 09:52:38 katoctf CRON[664]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:41 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:52:44 katoctf CRON[822]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:45 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:52:48 katoctf CRON[683]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:52:53 katoctf sshd[343]: Failed password for www-data from 192.168.1.17 port 43822 ssh2
+Feb 12 09:52:55 katoctf sshd[660]: Failed password for www-data from 192.168.1.49 port 2087 ssh2
+Feb 12 09:52:57 katoctf sshd[281]: Failed password for ubuntu from 192.168.1.15 port 26762 ssh2
+Feb 12 09:53:01 katoctf CRON[852]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:53:05 katoctf sshd[924]: Failed password for guest from 192.168.1.40 port 30713 ssh2
+Feb 12 09:53:06 katoctf sshd[579]: Failed password for www-data from 192.168.1.3 port 8242 ssh2
+Feb 12 09:53:11 katoctf sshd[188]: Failed password for guest from 192.168.1.37 port 13895 ssh2
+Feb 12 09:53:14 katoctf systemd: Started Session 4.
+Feb 12 09:53:17 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:53:18 katoctf CRON[340]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:53:23 katoctf systemd: Started Session 10.
+Feb 12 09:53:25 katoctf CRON[751]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:53:29 katoctf sshd[311]: Failed password for www-data from 192.168.1.39 port 21342 ssh2
+Feb 12 09:53:30 katoctf systemd: Started Session 17.
+Feb 12 09:53:34 katoctf CRON[574]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:53:37 katoctf systemd: Started Session 3.
+Feb 12 09:53:38 katoctf sshd[626]: Failed password for guest from 192.168.1.42 port 60508 ssh2
+Feb 12 09:53:40 katoctf systemd: Started Session 9.
+Feb 12 09:53:41 katoctf systemd: Started Session 9.
+Feb 12 09:53:45 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:53:47 katoctf sshd[667]: Failed password for ubuntu from 192.168.1.28 port 15979 ssh2
+Feb 12 09:53:48 katoctf CRON[612]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:53:52 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:53:56 katoctf CRON[262]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:54:00 katoctf systemd: Started Session 20.
+Feb 12 09:54:04 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:54:06 katoctf systemd: Started Session 19.
+Feb 12 09:54:11 katoctf sshd[261]: Failed password for kato from 192.168.1.41 port 1716 ssh2
+Feb 12 09:54:12 katoctf systemd: Started Session 1.
+Feb 12 09:54:17 katoctf sshd[163]: Failed password for ubuntu from 192.168.1.39 port 16922 ssh2
+Feb 12 09:54:20 katoctf sshd[639]: Failed password for www-data from 192.168.1.21 port 56924 ssh2
+Feb 12 09:54:24 katoctf systemd: Started Session 5.
+Feb 12 09:54:26 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:54:29 katoctf sshd[710]: Failed password for www-data from 192.168.1.22 port 44389 ssh2
+Feb 12 09:54:30 katoctf systemd: Started Session 7.
+Feb 12 09:54:35 katoctf CRON[364]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:54:39 katoctf CRON[166]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:54:43 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:54:48 katoctf CRON[347]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:54:51 katoctf systemd: Started Session 19.
+Feb 12 09:54:54 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:54:58 katoctf CRON[831]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:55:01 katoctf systemd: Started Session 11.
+Feb 12 09:55:03 katoctf CRON[144]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:55:05 katoctf sshd[194]: Failed password for guest from 192.168.1.14 port 28632 ssh2
+Feb 12 09:55:06 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:10 katoctf systemd: Started Session 14.
+Feb 12 09:55:12 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:17 katoctf sshd[841]: Failed password for guest from 192.168.1.4 port 24825 ssh2
+Feb 12 09:55:21 katoctf systemd: Started Session 8.
+Feb 12 09:55:26 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:27 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:32 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:34 katoctf systemd: Started Session 4.
+Feb 12 09:55:35 katoctf sshd[393]: Failed password for kato from 192.168.1.7 port 16249 ssh2
+Feb 12 09:55:36 katoctf sshd[556]: Failed password for kato from 192.168.1.21 port 36782 ssh2
+Feb 12 09:55:38 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:43 katoctf CRON[367]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:55:48 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:52 katoctf sshd[609]: Failed password for www-data from 192.168.1.17 port 51373 ssh2
+Feb 12 09:55:56 katoctf sshd[964]: Failed password for kato from 192.168.1.32 port 54034 ssh2
+Feb 12 09:55:57 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:55:59 katoctf CRON[223]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:00 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:56:03 katoctf systemd: Started Session 15.
+Feb 12 09:56:04 katoctf sshd[189]: Failed password for www-data from 192.168.1.32 port 38451 ssh2
+Feb 12 09:56:06 katoctf CRON[420]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:09 katoctf sshd[326]: Failed password for guest from 192.168.1.32 port 9460 ssh2
+Feb 12 09:56:14 katoctf CRON[437]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:15 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:56:17 katoctf CRON[650]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:21 katoctf sshd[898]: Failed password for guest from 192.168.1.34 port 30100 ssh2
+Feb 12 09:56:22 katoctf CRON[758]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:26 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:56:28 katoctf sshd[286]: Failed password for guest from 192.168.1.36 port 16361 ssh2
+Feb 12 09:56:32 katoctf CRON[994]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:34 katoctf CRON[573]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:37 katoctf CRON[197]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:42 katoctf CRON[674]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:46 katoctf systemd: Started Session 14.
+Feb 12 09:56:47 katoctf systemd: Started Session 5.
+Feb 12 09:56:51 katoctf sshd[740]: Failed password for admin from 192.168.1.18 port 48237 ssh2
+Feb 12 09:56:52 katoctf sshd[553]: Failed password for ubuntu from 192.168.1.14 port 28603 ssh2
+Feb 12 09:56:55 katoctf CRON[419]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:56 katoctf CRON[274]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:56:57 katoctf sshd[895]: Failed password for www-data from 192.168.1.45 port 52153 ssh2
+Feb 12 09:56:58 katoctf CRON[905]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:57:01 katoctf CRON[592]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:57:04 katoctf sshd[922]: Failed password for ubuntu from 192.168.1.43 port 48395 ssh2
+Feb 12 09:57:05 katoctf systemd: Started Session 12.
+Feb 12 09:57:06 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:57:11 katoctf sshd[663]: Failed password for kato from 192.168.1.2 port 10011 ssh2
+Feb 12 09:57:14 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:57:19 katoctf sshd[107]: Failed password for ubuntu from 192.168.1.48 port 44620 ssh2
+Feb 12 09:57:20 katoctf systemd: Started Session 14.
+Feb 12 09:57:22 katoctf systemd: Started Session 10.
+Feb 12 09:57:25 katoctf CRON[722]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:57:26 katoctf CRON[775]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:57:31 katoctf systemd: Started Session 6.
+Feb 12 09:57:36 katoctf sshd[486]: Failed password for www-data from 192.168.1.8 port 31729 ssh2
+Feb 12 09:57:41 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:57:42 katoctf CRON[705]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:57:45 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:57:48 katoctf sshd[532]: Failed password for www-data from 192.168.1.46 port 32953 ssh2
+Feb 12 09:57:51 katoctf sshd[704]: Failed password for www-data from 192.168.1.32 port 53744 ssh2
+Feb 12 09:57:52 katoctf systemd: Started Session 6.
+Feb 12 09:57:57 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:57:58 katoctf CRON[760]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:58:00 katoctf systemd: Started Session 9.
+Feb 12 09:58:01 katoctf sshd[953]: Failed password for admin from 192.168.1.12 port 13354 ssh2
+Feb 12 09:58:04 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:06 katoctf systemd: Started Session 15.
+Feb 12 09:58:11 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:16 katoctf sshd[926]: Failed password for kato from 192.168.1.22 port 43789 ssh2
+Feb 12 09:58:20 katoctf systemd: Started Session 9.
+Feb 12 09:58:21 katoctf CRON[993]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:58:25 katoctf systemd: Started Session 4.
+Feb 12 09:58:27 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:28 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:29 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:32 katoctf systemd: Started Session 6.
+Feb 12 09:58:37 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:39 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:40 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:58:43 katoctf sshd[706]: Failed password for ubuntu from 192.168.1.44 port 7598 ssh2
+Feb 12 09:58:45 katoctf CRON[430]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:58:50 katoctf sshd[204]: Failed password for guest from 192.168.1.20 port 60619 ssh2
+Feb 12 09:58:54 katoctf sshd[656]: Failed password for admin from 192.168.1.38 port 50166 ssh2
+Feb 12 09:58:57 katoctf sshd[273]: Failed password for kato from 192.168.1.19 port 52362 ssh2
+Feb 12 09:58:58 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:59:02 katoctf systemd: Started Session 16.
+Feb 12 09:59:07 katoctf systemd: Started Session 10.
+Feb 12 09:59:10 katoctf systemd: Started Session 12.
+Feb 12 09:59:13 katoctf sshd[614]: Failed password for admin from 192.168.1.27 port 25452 ssh2
+Feb 12 09:59:17 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:59:18 katoctf CRON[551]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:59:20 katoctf CRON[145]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:59:22 katoctf CRON[369]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:59:24 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:59:26 katoctf systemd: Started Session 19.
+Feb 12 09:59:31 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:59:36 katoctf systemd: Started Session 8.
+Feb 12 09:59:38 katoctf sshd[621]: Failed password for guest from 192.168.1.45 port 10626 ssh2
+Feb 12 09:59:39 katoctf sshd[916]: Failed password for guest from 192.168.1.11 port 22921 ssh2
+Feb 12 09:59:42 katoctf CRON[446]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:59:45 katoctf sshd[925]: Failed password for guest from 192.168.1.28 port 65177 ssh2
+Feb 12 09:59:46 katoctf sshd[398]: Failed password for guest from 192.168.1.19 port 52450 ssh2
+Feb 12 09:59:47 katoctf systemd: Started Session 16.
+Feb 12 09:59:49 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 09:59:52 katoctf CRON[259]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 09:59:53 katoctf systemd: Started Session 12.
+Feb 12 09:59:57 katoctf sshd[632]: Failed password for guest from 192.168.1.24 port 32170 ssh2
+Feb 12 10:00:00 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:05 katoctf CRON[358]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:06 katoctf CRON[631]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:11 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:15 katoctf sshd[694]: Failed password for www-data from 192.168.1.48 port 43087 ssh2
+Feb 12 10:00:20 katoctf sshd[155]: Failed password for www-data from 192.168.1.4 port 3445 ssh2
+Feb 12 10:00:25 katoctf CRON[248]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:30 katoctf systemd: Started Session 6.
+Feb 12 10:00:32 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:36 katoctf CRON[360]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:38 katoctf CRON[238]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:40 katoctf sshd[475]: Failed password for ubuntu from 192.168.1.27 port 8559 ssh2
+Feb 12 10:00:42 katoctf sshd[581]: Failed password for kato from 192.168.1.9 port 20198 ssh2
+Feb 12 10:00:43 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:44 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:47 katoctf CRON[107]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:00:52 katoctf sshd[631]: Failed password for ubuntu from 192.168.1.19 port 27275 ssh2
+Feb 12 10:00:53 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:00:55 katoctf sshd[150]: Failed password for admin from 192.168.1.21 port 46731 ssh2
+Feb 12 10:00:59 katoctf systemd: Started Session 7.
+Feb 12 10:01:04 katoctf CRON[834]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:01:06 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:11 katoctf CRON[216]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:01:16 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:21 katoctf sshd[713]: Failed password for admin from 192.168.1.7 port 21391 ssh2
+Feb 12 10:01:25 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:27 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:29 katoctf systemd: Started Session 17.
+Feb 12 10:01:33 katoctf sshd[301]: Failed password for www-data from 192.168.1.20 port 7655 ssh2
+Feb 12 10:01:34 katoctf sshd[860]: Failed password for guest from 192.168.1.46 port 32353 ssh2
+Feb 12 10:01:38 katoctf CRON[619]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:01:39 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:40 katoctf sshd[768]: Failed password for kato from 192.168.1.48 port 12448 ssh2
+Feb 12 10:01:41 katoctf systemd: Started Session 15.
+Feb 12 10:01:46 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:51 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:01:53 katoctf sshd[822]: Failed password for ubuntu from 192.168.1.38 port 62176 ssh2
+Feb 12 10:01:55 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:02:00 katoctf sshd[509]: Failed password for www-data from 192.168.1.35 port 16938 ssh2
+Feb 12 10:02:03 katoctf sshd[113]: Failed password for guest from 192.168.1.5 port 17905 ssh2
+Feb 12 10:02:08 katoctf CRON[165]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:02:13 katoctf systemd: Started Session 2.
+Feb 12 10:02:16 katoctf systemd: Started Session 5.
+Feb 12 10:02:20 katoctf sshd[475]: Failed password for kato from 192.168.1.13 port 15141 ssh2
+Feb 12 10:02:21 katoctf CRON[444]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:02:22 katoctf sshd[980]: Failed password for guest from 192.168.1.49 port 60737 ssh2
+Feb 12 10:02:26 katoctf sshd[833]: Failed password for guest from 192.168.1.3 port 15282 ssh2
+Feb 12 10:02:29 katoctf sshd[591]: Failed password for kato from 192.168.1.19 port 39722 ssh2
+Feb 12 10:02:31 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:02:33 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:02:35 katoctf CRON[892]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:02:39 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:02:42 katoctf sshd[401]: Failed password for kato from 192.168.1.29 port 52404 ssh2
+Feb 12 10:02:45 katoctf systemd: Started Session 10.
+Feb 12 10:02:48 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:02:49 katoctf sshd[125]: Failed password for www-data from 192.168.1.9 port 58221 ssh2
+Feb 12 10:02:54 katoctf sshd[803]: Failed password for admin from 192.168.1.9 port 57748 ssh2
+Feb 12 10:02:59 katoctf systemd: Started Session 4.
+Feb 12 10:03:02 katoctf sshd[100]: Failed password for admin from 192.168.1.4 port 34297 ssh2
+Feb 12 10:03:04 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:03:05 katoctf sshd[202]: Failed password for kato from 192.168.1.19 port 22557 ssh2
+Feb 12 10:03:10 katoctf systemd: Started Session 6.
+Feb 12 10:03:14 katoctf systemd: Started Session 18.
+Feb 12 10:03:16 katoctf systemd: Started Session 3.
+Feb 12 10:03:17 katoctf sshd[586]: Failed password for guest from 192.168.1.7 port 50526 ssh2
+Feb 12 10:03:20 katoctf sshd[977]: Failed password for guest from 192.168.1.19 port 31001 ssh2
+Feb 12 10:03:24 katoctf CRON[172]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:03:27 katoctf systemd: Started Session 3.
+Feb 12 10:03:31 katoctf systemd: Started Session 4.
+Feb 12 10:03:32 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:03:33 katoctf CRON[708]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:03:34 katoctf CRON[144]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:03:37 katoctf sshd[822]: Failed password for www-data from 192.168.1.4 port 9371 ssh2
+Feb 12 10:03:41 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:03:44 katoctf systemd: Started Session 19.
+Feb 12 10:03:49 katoctf CRON[504]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:03:51 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:03:56 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:03:59 katoctf sshd[563]: Failed password for admin from 192.168.1.40 port 32033 ssh2
+Feb 12 10:04:04 katoctf CRON[304]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:07 katoctf systemd: Started Session 2.
+Feb 12 10:04:11 katoctf sshd[625]: Failed password for kato from 192.168.1.28 port 19450 ssh2
+Feb 12 10:04:14 katoctf CRON[588]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:19 katoctf systemd: Started Session 8.
+Feb 12 10:04:21 katoctf systemd: Started Session 12.
+Feb 12 10:04:24 katoctf CRON[844]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:28 katoctf sshd[453]: Failed password for ubuntu from 192.168.1.26 port 57014 ssh2
+Feb 12 10:04:32 katoctf CRON[389]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:33 katoctf CRON[268]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:35 katoctf sshd[954]: Failed password for ubuntu from 192.168.1.7 port 63697 ssh2
+Feb 12 10:04:37 katoctf systemd: Started Session 6.
+Feb 12 10:04:42 katoctf systemd: Started Session 17.
+Feb 12 10:04:44 katoctf CRON[545]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:04:49 katoctf systemd: Started Session 14.
+Feb 12 10:04:50 katoctf sshd[682]: Failed password for ubuntu from 192.168.1.45 port 14463 ssh2
+Feb 12 10:04:53 katoctf sshd[339]: Failed password for guest from 192.168.1.35 port 50094 ssh2
+Feb 12 10:04:54 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:04:58 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:01 katoctf CRON[612]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:05:02 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:04 katoctf sshd[764]: Failed password for admin from 192.168.1.31 port 50277 ssh2
+Feb 12 10:05:06 katoctf systemd: Started Session 18.
+Feb 12 10:05:11 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:13 katoctf CRON[904]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:05:14 katoctf systemd: Started Session 20.
+Feb 12 10:05:18 katoctf CRON[966]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:05:23 katoctf sshd[281]: Failed password for ubuntu from 192.168.1.40 port 41172 ssh2
+Feb 12 10:05:26 katoctf systemd: Started Session 10.
+Feb 12 10:05:27 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:29 katoctf sshd[413]: Failed password for guest from 192.168.1.44 port 11208 ssh2
+Feb 12 10:05:30 katoctf sshd[736]: Failed password for ubuntu from 192.168.1.21 port 54759 ssh2
+Feb 12 10:05:34 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:35 katoctf systemd: Started Session 8.
+Feb 12 10:05:40 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:41 katoctf CRON[521]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:05:44 katoctf systemd: Started Session 5.
+Feb 12 10:05:45 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:49 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:05:54 katoctf sshd[872]: Failed password for www-data from 192.168.1.2 port 39917 ssh2
+Feb 12 10:05:57 katoctf sshd[385]: Failed password for kato from 192.168.1.8 port 35892 ssh2
+Feb 12 10:06:00 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:03 katoctf systemd: Started Session 16.
+Feb 12 10:06:05 katoctf sshd[246]: Failed password for admin from 192.168.1.19 port 9513 ssh2
+Feb 12 10:06:08 katoctf sshd[884]: Failed password for www-data from 192.168.1.24 port 41424 ssh2
+Feb 12 10:06:13 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:16 katoctf CRON[138]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:06:20 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:25 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:27 katoctf CRON[856]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:06:30 katoctf systemd: Started Session 2.
+Feb 12 10:06:34 katoctf systemd: Started Session 6.
+Feb 12 10:06:36 katoctf CRON[287]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:06:39 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:44 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:45 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:06:49 katoctf CRON[826]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:06:53 katoctf sshd[321]: Failed password for admin from 192.168.1.14 port 60840 ssh2
+Feb 12 10:06:57 katoctf CRON[128]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:06:58 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:00 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:04 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:08 katoctf systemd: Started Session 6.
+Feb 12 10:07:12 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:13 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:16 katoctf systemd: Started Session 3.
+Feb 12 10:07:18 katoctf systemd: Started Session 1.
+Feb 12 10:07:20 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:25 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:28 katoctf systemd: Started Session 20.
+Feb 12 10:07:32 katoctf CRON[770]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:07:33 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:36 katoctf systemd: Started Session 9.
+Feb 12 10:07:40 katoctf systemd: Started Session 3.
+Feb 12 10:07:42 katoctf sshd[940]: Failed password for www-data from 192.168.1.41 port 23561 ssh2
+Feb 12 10:07:46 katoctf systemd: Started Session 20.
+Feb 12 10:07:51 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:07:55 katoctf CRON[876]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:07:57 katoctf sshd[853]: Failed password for www-data from 192.168.1.46 port 38017 ssh2
+Feb 12 10:08:00 katoctf systemd: Started Session 19.
+Feb 12 10:08:01 katoctf systemd: Started Session 3.
+Feb 12 10:08:05 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:08:10 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:08:13 katoctf CRON[743]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:14 katoctf CRON[754]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:15 katoctf systemd: Started Session 12.
+Feb 12 10:08:16 katoctf sshd[464]: Failed password for www-data from 192.168.1.30 port 10402 ssh2
+Feb 12 10:08:18 katoctf systemd: Started Session 19.
+Feb 12 10:08:21 katoctf sshd[503]: Failed password for www-data from 192.168.1.8 port 17484 ssh2
+Feb 12 10:08:22 katoctf systemd: Started Session 14.
+Feb 12 10:08:27 katoctf sshd[931]: Failed password for ubuntu from 192.168.1.32 port 6804 ssh2
+Feb 12 10:08:30 katoctf CRON[610]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:35 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:08:37 katoctf CRON[137]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:38 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:08:41 katoctf CRON[291]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:42 katoctf sshd[272]: Failed password for kato from 192.168.1.25 port 53610 ssh2
+Feb 12 10:08:47 katoctf sshd[572]: Failed password for kato from 192.168.1.24 port 2362 ssh2
+Feb 12 10:08:50 katoctf CRON[876]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:08:55 katoctf systemd: Started Session 17.
+Feb 12 10:08:56 katoctf systemd: Started Session 19.
+Feb 12 10:09:00 katoctf sshd[924]: Failed password for guest from 192.168.1.6 port 44341 ssh2
+Feb 12 10:09:01 katoctf CRON[238]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:09:04 katoctf sshd[663]: Failed password for www-data from 192.168.1.30 port 28301 ssh2
+Feb 12 10:09:09 katoctf CRON[545]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:09:14 katoctf systemd: Started Session 9.
+Feb 12 10:09:15 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:09:17 katoctf systemd: Started Session 17.
+Feb 12 10:09:19 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:09:20 katoctf sshd[323]: Failed password for ubuntu from 192.168.1.13 port 60185 ssh2
+Feb 12 10:09:21 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:09:24 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:09:29 katoctf sshd[329]: Failed password for admin from 192.168.1.37 port 33565 ssh2
+Feb 12 10:09:34 katoctf CRON[829]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:09:37 katoctf systemd: Started Session 19.
+Feb 12 10:09:42 katoctf sshd[276]: Failed password for kato from 192.168.1.26 port 26201 ssh2
+Feb 12 10:09:47 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:09:50 katoctf sshd[151]: Failed password for kato from 192.168.1.30 port 2324 ssh2
+Feb 12 10:09:55 katoctf systemd: Started Session 14.
+Feb 12 10:09:56 katoctf CRON[406]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:09:59 katoctf CRON[421]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:10:03 katoctf systemd: Started Session 20.
+Feb 12 10:10:06 katoctf CRON[991]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:10:08 katoctf CRON[600]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:10:12 katoctf CRON[704]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:10:17 katoctf CRON[810]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:10:22 katoctf systemd: Started Session 10.
+Feb 12 10:10:23 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:10:26 katoctf systemd: Started Session 3.
+Feb 12 10:10:31 katoctf sshd[705]: Failed password for admin from 192.168.1.34 port 19922 ssh2
+Feb 12 10:10:36 katoctf sshd[848]: Failed password for ubuntu from 192.168.1.35 port 11857 ssh2
+Feb 12 10:10:39 katoctf sshd[747]: Failed password for ubuntu from 192.168.1.42 port 9658 ssh2
+Feb 12 10:10:41 katoctf sshd[820]: Failed password for guest from 192.168.1.40 port 61086 ssh2
+Feb 12 10:10:46 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:10:51 katoctf sshd[193]: Failed password for www-data from 192.168.1.26 port 23376 ssh2
+Feb 12 10:10:55 katoctf sshd[484]: Failed password for admin from 192.168.1.23 port 18781 ssh2
+Feb 12 10:11:00 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:04 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:08 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:11 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:14 katoctf CRON[752]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:11:15 katoctf CRON[576]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:11:19 katoctf CRON[589]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:11:21 katoctf sshd[122]: Failed password for ubuntu from 192.168.1.12 port 10741 ssh2
+Feb 12 10:11:23 katoctf systemd: Started Session 20.
+Feb 12 10:11:25 katoctf sshd[478]: Failed password for ubuntu from 192.168.1.35 port 58116 ssh2
+Feb 12 10:11:29 katoctf sshd[377]: Failed password for www-data from 192.168.1.4 port 56589 ssh2
+Feb 12 10:11:32 katoctf sshd[801]: Failed password for www-data from 192.168.1.46 port 64690 ssh2
+Feb 12 10:11:37 katoctf systemd: Started Session 20.
+Feb 12 10:11:42 katoctf sshd[899]: Failed password for admin from 192.168.1.47 port 52553 ssh2
+Feb 12 10:11:43 katoctf CRON[627]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:11:46 katoctf sshd[322]: Failed password for guest from 192.168.1.31 port 31706 ssh2
+Feb 12 10:11:49 katoctf systemd: Started Session 7.
+Feb 12 10:11:51 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:53 katoctf systemd: Started Session 19.
+Feb 12 10:11:56 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:11:57 katoctf systemd: Started Session 6.
+Feb 12 10:12:00 katoctf CRON[153]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:12:01 katoctf systemd: Started Session 17.
+Feb 12 10:12:04 katoctf sshd[116]: Failed password for ubuntu from 192.168.1.30 port 9472 ssh2
+Feb 12 10:12:05 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:06 katoctf sshd[505]: Failed password for kato from 192.168.1.20 port 54221 ssh2
+Feb 12 10:12:08 katoctf systemd: Started Session 16.
+Feb 12 10:12:09 katoctf CRON[520]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:12:14 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:19 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:20 katoctf systemd: Started Session 20.
+Feb 12 10:12:22 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:26 katoctf sshd[573]: Failed password for ubuntu from 192.168.1.14 port 60124 ssh2
+Feb 12 10:12:30 katoctf CRON[646]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:12:32 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:37 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:41 katoctf systemd: Started Session 7.
+Feb 12 10:12:46 katoctf systemd: Started Session 8.
+Feb 12 10:12:50 katoctf sshd[882]: Failed password for kato from 192.168.1.7 port 20099 ssh2
+Feb 12 10:12:52 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:12:56 katoctf CRON[499]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:12:57 katoctf CRON[158]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:12:59 katoctf CRON[916]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:13:01 katoctf systemd: Started Session 12.
+Feb 12 10:13:02 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:03 katoctf systemd: Started Session 10.
+Feb 12 10:13:08 katoctf systemd: Started Session 14.
+Feb 12 10:13:11 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:12 katoctf CRON[576]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:13:15 katoctf CRON[461]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:13:16 katoctf CRON[501]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:13:18 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:19 katoctf systemd: Started Session 20.
+Feb 12 10:13:21 katoctf sshd[226]: Failed password for guest from 192.168.1.39 port 10756 ssh2
+Feb 12 10:13:24 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:28 katoctf sshd[756]: Failed password for www-data from 192.168.1.15 port 53050 ssh2
+Feb 12 10:13:31 katoctf sshd[773]: Failed password for kato from 192.168.1.7 port 55609 ssh2
+Feb 12 10:13:36 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:41 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:44 katoctf systemd: Started Session 15.
+Feb 12 10:13:47 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:49 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:51 katoctf sshd[548]: Failed password for admin from 192.168.1.3 port 35853 ssh2
+Feb 12 10:13:52 katoctf sshd[421]: Failed password for ubuntu from 192.168.1.27 port 38478 ssh2
+Feb 12 10:13:54 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:13:58 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:00 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:02 katoctf sshd[996]: Failed password for admin from 192.168.1.46 port 48643 ssh2
+Feb 12 10:14:06 katoctf sshd[265]: Failed password for ubuntu from 192.168.1.43 port 2199 ssh2
+Feb 12 10:14:09 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:11 katoctf CRON[703]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:13 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:17 katoctf sshd[415]: Failed password for www-data from 192.168.1.42 port 5509 ssh2
+Feb 12 10:14:21 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:22 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:23 katoctf sshd[655]: Failed password for kato from 192.168.1.32 port 6478 ssh2
+Feb 12 10:14:26 katoctf CRON[607]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:31 katoctf systemd: Started Session 20.
+Feb 12 10:14:34 katoctf systemd: Started Session 1.
+Feb 12 10:14:37 katoctf CRON[342]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:42 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:44 katoctf sshd[421]: Failed password for guest from 192.168.1.32 port 47634 ssh2
+Feb 12 10:14:45 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:14:49 katoctf CRON[667]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:53 katoctf CRON[902]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:57 katoctf CRON[323]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:14:58 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:15:03 katoctf systemd: Started Session 7.
+Feb 12 10:15:07 katoctf sshd[975]: Failed password for www-data from 192.168.1.34 port 9628 ssh2
+Feb 12 10:15:11 katoctf systemd: Started Session 5.
+Feb 12 10:15:16 katoctf systemd: Started Session 17.
+Feb 12 10:15:20 katoctf sshd[408]: Failed password for ubuntu from 192.168.1.2 port 39830 ssh2
+Feb 12 10:15:23 katoctf sshd[718]: Failed password for www-data from 192.168.1.20 port 37197 ssh2
+Feb 12 10:15:27 katoctf systemd: Started Session 5.
+Feb 12 10:15:32 katoctf systemd: Started Session 13.
+Feb 12 10:15:37 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:15:42 katoctf sshd[390]: Failed password for kato from 192.168.1.10 port 27473 ssh2
+Feb 12 10:15:43 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:15:47 katoctf CRON[921]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:15:50 katoctf sshd[175]: Failed password for www-data from 192.168.1.10 port 27039 ssh2
+Feb 12 10:15:53 katoctf CRON[497]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:15:58 katoctf systemd: Started Session 2.
+Feb 12 10:16:03 katoctf CRON[158]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:06 katoctf CRON[358]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:10 katoctf systemd: Started Session 20.
+Feb 12 10:16:12 katoctf CRON[705]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:16 katoctf systemd: Started Session 11.
+Feb 12 10:16:21 katoctf CRON[651]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:23 katoctf sshd[470]: Failed password for admin from 192.168.1.4 port 35128 ssh2
+Feb 12 10:16:25 katoctf systemd: Started Session 16.
+Feb 12 10:16:29 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:33 katoctf sshd[870]: Failed password for kato from 192.168.1.45 port 1566 ssh2
+Feb 12 10:16:34 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:38 katoctf systemd: Started Session 9.
+Feb 12 10:16:39 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:41 katoctf systemd: Started Session 5.
+Feb 12 10:16:42 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:44 katoctf CRON[413]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:47 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:49 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:54 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:16:57 katoctf CRON[730]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:16:58 katoctf CRON[885]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:17:00 katoctf sshd[211]: Failed password for guest from 192.168.1.17 port 27710 ssh2
+Feb 12 10:17:05 katoctf systemd: Started Session 1.
+Feb 12 10:17:07 katoctf sshd[442]: Failed password for guest from 192.168.1.33 port 13334 ssh2
+Feb 12 10:17:12 katoctf CRON[228]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:17:15 katoctf CRON[724]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:17:16 katoctf CRON[966]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:17:17 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:18 katoctf sshd[898]: Failed password for guest from 192.168.1.48 port 21311 ssh2
+Feb 12 10:17:22 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:23 katoctf systemd: Started Session 9.
+Feb 12 10:17:25 katoctf sshd[899]: Failed password for kato from 192.168.1.14 port 1775 ssh2
+Feb 12 10:17:28 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:29 katoctf CRON[918]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:17:30 katoctf sshd[695]: Failed password for ubuntu from 192.168.1.10 port 1828 ssh2
+Feb 12 10:17:31 katoctf systemd: Started Session 11.
+Feb 12 10:17:32 katoctf sshd[805]: Failed password for ubuntu from 192.168.1.11 port 64294 ssh2
+Feb 12 10:17:33 katoctf sshd[123]: Accepted password for kato from 192.168.1.5 port 4444 ssh2
+Feb 12 10:17:34 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/bin/cat flag.txt
+Feb 12 10:17:35 katoctf systemd: Started Session 4.
+Feb 12 10:17:36 katoctf debug: katoCTF{57Ch5Y2Y44GL44Gq77yfCg==}
+Feb 12 10:17:38 katoctf systemd: Started Session 14.
+Feb 12 10:17:41 katoctf systemd: Started Session 20.
+Feb 12 10:17:42 katoctf systemd: Started Session 6.
+Feb 12 10:17:45 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:49 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:51 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:17:54 katoctf systemd: Started Session 14.
+Feb 12 10:17:58 katoctf systemd: Started Session 17.
+Feb 12 10:18:00 katoctf systemd: Started Session 7.
+Feb 12 10:18:02 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:06 katoctf systemd: Started Session 1.
+Feb 12 10:18:10 katoctf systemd: Started Session 18.
+Feb 12 10:18:13 katoctf sshd[906]: Failed password for admin from 192.168.1.45 port 37356 ssh2
+Feb 12 10:18:14 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:17 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:19 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:23 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:28 katoctf CRON[954]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:18:29 katoctf sshd[730]: Failed password for kato from 192.168.1.6 port 15202 ssh2
+Feb 12 10:18:30 katoctf sshd[722]: Failed password for guest from 192.168.1.29 port 43568 ssh2
+Feb 12 10:18:35 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:38 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:39 katoctf sshd[668]: Failed password for guest from 192.168.1.3 port 53247 ssh2
+Feb 12 10:18:42 katoctf CRON[908]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:18:43 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:18:45 katoctf sshd[808]: Failed password for guest from 192.168.1.11 port 6117 ssh2
+Feb 12 10:18:47 katoctf sshd[809]: Failed password for www-data from 192.168.1.19 port 26414 ssh2
+Feb 12 10:18:49 katoctf sshd[144]: Failed password for ubuntu from 192.168.1.12 port 58837 ssh2
+Feb 12 10:18:50 katoctf CRON[237]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:18:55 katoctf CRON[785]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:18:59 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:01 katoctf CRON[568]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:19:04 katoctf systemd: Started Session 10.
+Feb 12 10:19:07 katoctf sshd[659]: Failed password for guest from 192.168.1.31 port 34488 ssh2
+Feb 12 10:19:12 katoctf systemd: Started Session 10.
+Feb 12 10:19:14 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:15 katoctf sshd[274]: Failed password for www-data from 192.168.1.40 port 50308 ssh2
+Feb 12 10:19:18 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:22 katoctf CRON[252]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:19:25 katoctf sshd[660]: Failed password for guest from 192.168.1.10 port 18225 ssh2
+Feb 12 10:19:29 katoctf sshd[515]: Failed password for ubuntu from 192.168.1.43 port 18770 ssh2
+Feb 12 10:19:31 katoctf systemd: Started Session 6.
+Feb 12 10:19:36 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:37 katoctf sshd[283]: Failed password for ubuntu from 192.168.1.3 port 5081 ssh2
+Feb 12 10:19:41 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:45 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:46 katoctf systemd: Started Session 18.
+Feb 12 10:19:49 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:19:54 katoctf CRON[726]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:19:55 katoctf sshd[716]: Failed password for guest from 192.168.1.26 port 34282 ssh2
+Feb 12 10:19:57 katoctf systemd: Started Session 16.
+Feb 12 10:20:01 katoctf systemd: Started Session 13.
+Feb 12 10:20:05 katoctf CRON[117]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:20:06 katoctf systemd: Started Session 12.
+Feb 12 10:20:11 katoctf CRON[126]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:20:16 katoctf systemd: Started Session 20.
+Feb 12 10:20:20 katoctf sshd[715]: Failed password for www-data from 192.168.1.49 port 3592 ssh2
+Feb 12 10:20:24 katoctf CRON[492]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:20:26 katoctf CRON[754]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:20:30 katoctf systemd: Started Session 19.
+Feb 12 10:20:31 katoctf systemd: Started Session 14.
+Feb 12 10:20:32 katoctf sshd[332]: Failed password for guest from 192.168.1.17 port 15111 ssh2
+Feb 12 10:20:35 katoctf systemd: Started Session 18.
+Feb 12 10:20:36 katoctf CRON[315]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:20:39 katoctf systemd: Started Session 14.
+Feb 12 10:20:40 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:20:42 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:20:45 katoctf systemd: Started Session 4.
+Feb 12 10:20:47 katoctf systemd: Started Session 20.
+Feb 12 10:20:50 katoctf systemd: Started Session 11.
+Feb 12 10:20:54 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:20:56 katoctf sshd[234]: Failed password for admin from 192.168.1.35 port 11774 ssh2
+Feb 12 10:20:57 katoctf systemd: Started Session 9.
+Feb 12 10:20:59 katoctf CRON[689]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:21:01 katoctf systemd: Started Session 5.
+Feb 12 10:21:02 katoctf CRON[294]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:21:06 katoctf sshd[325]: Failed password for www-data from 192.168.1.24 port 51179 ssh2
+Feb 12 10:21:07 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:21:10 katoctf CRON[671]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:21:13 katoctf systemd: Started Session 10.
+Feb 12 10:21:14 katoctf sshd[883]: Failed password for www-data from 192.168.1.26 port 32371 ssh2
+Feb 12 10:21:18 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:21:22 katoctf systemd: Started Session 3.
+Feb 12 10:21:25 katoctf sshd[872]: Failed password for www-data from 192.168.1.26 port 35303 ssh2
+Feb 12 10:21:29 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:21:33 katoctf sshd[531]: Failed password for www-data from 192.168.1.18 port 14857 ssh2
+Feb 12 10:21:38 katoctf sshd[801]: Failed password for ubuntu from 192.168.1.5 port 64194 ssh2
+Feb 12 10:21:41 katoctf CRON[591]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:21:42 katoctf systemd: Started Session 19.
+Feb 12 10:21:44 katoctf sshd[325]: Failed password for kato from 192.168.1.46 port 39754 ssh2
+Feb 12 10:21:48 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:21:53 katoctf sshd[853]: Failed password for admin from 192.168.1.6 port 40916 ssh2
+Feb 12 10:21:58 katoctf CRON[215]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:03 katoctf systemd: Started Session 17.
+Feb 12 10:22:07 katoctf CRON[588]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:08 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:22:11 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:22:13 katoctf CRON[856]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:14 katoctf systemd: Started Session 7.
+Feb 12 10:22:18 katoctf CRON[331]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:20 katoctf sshd[253]: Failed password for www-data from 192.168.1.22 port 49818 ssh2
+Feb 12 10:22:23 katoctf sshd[206]: Failed password for kato from 192.168.1.2 port 51619 ssh2
+Feb 12 10:22:24 katoctf sshd[698]: Failed password for admin from 192.168.1.19 port 17474 ssh2
+Feb 12 10:22:26 katoctf sshd[730]: Failed password for ubuntu from 192.168.1.26 port 61741 ssh2
+Feb 12 10:22:29 katoctf sshd[851]: Failed password for guest from 192.168.1.21 port 33392 ssh2
+Feb 12 10:22:32 katoctf sshd[856]: Failed password for admin from 192.168.1.13 port 7512 ssh2
+Feb 12 10:22:36 katoctf CRON[386]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:38 katoctf sshd[125]: Failed password for guest from 192.168.1.47 port 20941 ssh2
+Feb 12 10:22:39 katoctf sshd[969]: Failed password for guest from 192.168.1.40 port 61404 ssh2
+Feb 12 10:22:43 katoctf systemd: Started Session 1.
+Feb 12 10:22:48 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:22:51 katoctf sshd[628]: Failed password for admin from 192.168.1.4 port 41457 ssh2
+Feb 12 10:22:55 katoctf CRON[394]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:22:59 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:04 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:07 katoctf sshd[502]: Failed password for admin from 192.168.1.29 port 17318 ssh2
+Feb 12 10:23:12 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:15 katoctf sshd[311]: Failed password for admin from 192.168.1.19 port 59024 ssh2
+Feb 12 10:23:18 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:20 katoctf systemd: Started Session 11.
+Feb 12 10:23:21 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:22 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:23 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:28 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:29 katoctf CRON[230]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:23:34 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:35 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:40 katoctf systemd: Started Session 4.
+Feb 12 10:23:43 katoctf CRON[443]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:23:45 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:23:46 katoctf sshd[896]: Failed password for ubuntu from 192.168.1.5 port 42634 ssh2
+Feb 12 10:23:49 katoctf sshd[742]: Failed password for admin from 192.168.1.3 port 42988 ssh2
+Feb 12 10:23:53 katoctf sshd[891]: Failed password for ubuntu from 192.168.1.42 port 30178 ssh2
+Feb 12 10:23:54 katoctf sshd[818]: Failed password for www-data from 192.168.1.11 port 60080 ssh2
+Feb 12 10:23:56 katoctf CRON[126]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:23:57 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:24:02 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:24:03 katoctf sshd[211]: Failed password for ubuntu from 192.168.1.49 port 56133 ssh2
+Feb 12 10:24:08 katoctf CRON[642]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:09 katoctf systemd: Started Session 13.
+Feb 12 10:24:11 katoctf sudo: kato : TTY=pts/0 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:24:14 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:24:16 katoctf CRON[709]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:20 katoctf sudo: guest : TTY=pts/2 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:24:24 katoctf systemd: Started Session 14.
+Feb 12 10:24:25 katoctf CRON[949]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:27 katoctf systemd: Started Session 9.
+Feb 12 10:24:29 katoctf systemd: Started Session 9.
+Feb 12 10:24:31 katoctf CRON[714]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:35 katoctf sshd[640]: Failed password for ubuntu from 192.168.1.12 port 34759 ssh2
+Feb 12 10:24:39 katoctf systemd: Started Session 8.
+Feb 12 10:24:43 katoctf sshd[508]: Failed password for ubuntu from 192.168.1.37 port 65162 ssh2
+Feb 12 10:24:46 katoctf CRON[816]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:51 katoctf CRON[206]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:56 katoctf CRON[793]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:24:57 katoctf sshd[395]: Failed password for kato from 192.168.1.27 port 43932 ssh2
+Feb 12 10:25:02 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:25:04 katoctf sshd[407]: Failed password for ubuntu from 192.168.1.8 port 10835 ssh2
+Feb 12 10:25:05 katoctf CRON[235]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:07 katoctf sshd[463]: Failed password for kato from 192.168.1.22 port 41683 ssh2
+Feb 12 10:25:12 katoctf systemd: Started Session 8.
+Feb 12 10:25:17 katoctf CRON[206]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:22 katoctf CRON[747]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:25 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:25:29 katoctf systemd: Started Session 3.
+Feb 12 10:25:31 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:25:33 katoctf systemd: Started Session 6.
+Feb 12 10:25:34 katoctf CRON[207]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:37 katoctf CRON[828]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:40 katoctf sshd[163]: Failed password for guest from 192.168.1.30 port 37634 ssh2
+Feb 12 10:25:42 katoctf sshd[380]: Failed password for kato from 192.168.1.22 port 12597 ssh2
+Feb 12 10:25:47 katoctf sshd[344]: Failed password for admin from 192.168.1.5 port 26819 ssh2
+Feb 12 10:25:50 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:25:54 katoctf CRON[890]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:25:57 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:25:58 katoctf sshd[354]: Failed password for ubuntu from 192.168.1.3 port 26943 ssh2
+Feb 12 10:26:00 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:05 katoctf sshd[271]: Failed password for guest from 192.168.1.41 port 30765 ssh2
+Feb 12 10:26:08 katoctf sshd[503]: Failed password for kato from 192.168.1.26 port 22778 ssh2
+Feb 12 10:26:11 katoctf systemd: Started Session 11.
+Feb 12 10:26:14 katoctf systemd: Started Session 16.
+Feb 12 10:26:17 katoctf sudo: ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:19 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:24 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:25 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:28 katoctf systemd: Started Session 9.
+Feb 12 10:26:29 katoctf sshd[944]: Failed password for guest from 192.168.1.45 port 5055 ssh2
+Feb 12 10:26:32 katoctf sshd[997]: Failed password for www-data from 192.168.1.17 port 6214 ssh2
+Feb 12 10:26:33 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:35 katoctf CRON[385]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:26:39 katoctf sshd[916]: Failed password for guest from 192.168.1.48 port 18932 ssh2
+Feb 12 10:26:42 katoctf sshd[598]: Failed password for ubuntu from 192.168.1.4 port 24188 ssh2
+Feb 12 10:26:43 katoctf sshd[190]: Failed password for guest from 192.168.1.22 port 6011 ssh2
+Feb 12 10:26:46 katoctf CRON[734]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:26:48 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:26:50 katoctf sshd[263]: Failed password for www-data from 192.168.1.28 port 51096 ssh2
+Feb 12 10:26:55 katoctf systemd: Started Session 12.
+Feb 12 10:26:58 katoctf CRON[973]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:26:59 katoctf systemd: Started Session 14.
+Feb 12 10:27:03 katoctf CRON[117]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:27:08 katoctf systemd: Started Session 8.
+Feb 12 10:27:12 katoctf sshd[458]: Failed password for guest from 192.168.1.12 port 62804 ssh2
+Feb 12 10:27:15 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:16 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:21 katoctf sshd[112]: Failed password for kato from 192.168.1.19 port 60521 ssh2
+Feb 12 10:27:25 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:27 katoctf sshd[266]: Failed password for admin from 192.168.1.15 port 46861 ssh2
+Feb 12 10:27:29 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:34 katoctf sshd[251]: Failed password for admin from 192.168.1.49 port 1665 ssh2
+Feb 12 10:27:39 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:44 katoctf systemd: Started Session 17.
+Feb 12 10:27:47 katoctf systemd: Started Session 18.
+Feb 12 10:27:51 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:27:54 katoctf sshd[358]: Failed password for guest from 192.168.1.5 port 5250 ssh2
+Feb 12 10:27:59 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:00 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:02 katoctf systemd: Started Session 6.
+Feb 12 10:28:07 katoctf CRON[801]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:11 katoctf CRON[715]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:14 katoctf CRON[451]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:15 katoctf systemd: Started Session 18.
+Feb 12 10:28:20 katoctf systemd: Started Session 5.
+Feb 12 10:28:24 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:26 katoctf systemd: Started Session 20.
+Feb 12 10:28:28 katoctf sshd[855]: Failed password for guest from 192.168.1.37 port 36916 ssh2
+Feb 12 10:28:29 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:32 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:35 katoctf sshd[334]: Failed password for www-data from 192.168.1.45 port 6875 ssh2
+Feb 12 10:28:36 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:40 katoctf CRON[583]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:45 katoctf CRON[603]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:50 katoctf sudo: guest : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:28:52 katoctf systemd: Started Session 5.
+Feb 12 10:28:53 katoctf CRON[165]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:28:56 katoctf systemd: Started Session 15.
+Feb 12 10:28:59 katoctf sshd[762]: Failed password for guest from 192.168.1.11 port 21871 ssh2
+Feb 12 10:29:04 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:29:08 katoctf sshd[181]: Failed password for guest from 192.168.1.44 port 30341 ssh2
+Feb 12 10:29:09 katoctf CRON[660]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:10 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:29:13 katoctf CRON[603]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:15 katoctf CRON[905]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:19 katoctf CRON[400]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:24 katoctf CRON[259]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:26 katoctf CRON[769]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:31 katoctf CRON[820]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:29:36 katoctf sudo: ubuntu : TTY=pts/3 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:29:39 katoctf sshd[763]: Failed password for kato from 192.168.1.23 port 21918 ssh2
+Feb 12 10:29:41 katoctf systemd: Started Session 18.
+Feb 12 10:29:45 katoctf sshd[759]: Failed password for admin from 192.168.1.11 port 43584 ssh2
+Feb 12 10:29:50 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:29:54 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:29:58 katoctf systemd: Started Session 3.
+Feb 12 10:29:59 katoctf sshd[357]: Failed password for admin from 192.168.1.9 port 57061 ssh2
+Feb 12 10:30:04 katoctf CRON[610]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:30:09 katoctf sshd[932]: Failed password for www-data from 192.168.1.4 port 7724 ssh2
+Feb 12 10:30:14 katoctf CRON[470]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:30:17 katoctf systemd: Started Session 3.
+Feb 12 10:30:20 katoctf sshd[983]: Failed password for ubuntu from 192.168.1.46 port 32288 ssh2
+Feb 12 10:30:25 katoctf CRON[491]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:30:28 katoctf CRON[202]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:30:33 katoctf sshd[380]: Failed password for www-data from 192.168.1.44 port 16933 ssh2
+Feb 12 10:30:38 katoctf systemd: Started Session 2.
+Feb 12 10:30:42 katoctf systemd: Started Session 1.
+Feb 12 10:30:44 katoctf systemd: Started Session 7.
+Feb 12 10:30:48 katoctf CRON[254]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:30:51 katoctf systemd: Started Session 12.
+Feb 12 10:30:52 katoctf systemd: Started Session 2.
+Feb 12 10:30:54 katoctf sudo: admin : TTY=pts/2 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:30:55 katoctf sshd[706]: Failed password for kato from 192.168.1.15 port 7949 ssh2
+Feb 12 10:30:59 katoctf sshd[879]: Failed password for kato from 192.168.1.33 port 55962 ssh2
+Feb 12 10:31:02 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:06 katoctf systemd: Started Session 11.
+Feb 12 10:31:09 katoctf sshd[378]: Failed password for guest from 192.168.1.26 port 38369 ssh2
+Feb 12 10:31:11 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:13 katoctf CRON[542]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:18 katoctf systemd: Started Session 1.
+Feb 12 10:31:21 katoctf CRON[648]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:25 katoctf CRON[364]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:27 katoctf CRON[718]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:29 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:30 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:33 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:34 katoctf sshd[585]: Failed password for guest from 192.168.1.9 port 13381 ssh2
+Feb 12 10:31:39 katoctf CRON[620]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:42 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:47 katoctf systemd: Started Session 6.
+Feb 12 10:31:50 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:53 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:31:56 katoctf CRON[802]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:31:59 katoctf systemd: Started Session 11.
+Feb 12 10:32:03 katoctf CRON[934]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:07 katoctf sshd[595]: Failed password for admin from 192.168.1.21 port 24082 ssh2
+Feb 12 10:32:08 katoctf systemd: Started Session 3.
+Feb 12 10:32:11 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:13 katoctf CRON[165]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:14 katoctf sshd[525]: Failed password for admin from 192.168.1.47 port 33857 ssh2
+Feb 12 10:32:15 katoctf CRON[691]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:20 katoctf CRON[752]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:21 katoctf CRON[559]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:22 katoctf sshd[486]: Failed password for kato from 192.168.1.23 port 26981 ssh2
+Feb 12 10:32:25 katoctf CRON[938]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:26 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:27 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:30 katoctf sshd[291]: Failed password for ubuntu from 192.168.1.9 port 15988 ssh2
+Feb 12 10:32:32 katoctf sshd[817]: Failed password for kato from 192.168.1.37 port 4517 ssh2
+Feb 12 10:32:37 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:39 katoctf sshd[536]: Failed password for guest from 192.168.1.19 port 17683 ssh2
+Feb 12 10:32:40 katoctf sshd[212]: Failed password for guest from 192.168.1.13 port 19386 ssh2
+Feb 12 10:32:42 katoctf CRON[429]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:32:45 katoctf systemd: Started Session 18.
+Feb 12 10:32:48 katoctf sshd[396]: Failed password for admin from 192.168.1.4 port 51796 ssh2
+Feb 12 10:32:50 katoctf sshd[657]: Failed password for guest from 192.168.1.16 port 5586 ssh2
+Feb 12 10:32:54 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:56 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:32:59 katoctf sshd[957]: Failed password for kato from 192.168.1.12 port 20293 ssh2
+Feb 12 10:33:00 katoctf sshd[657]: Failed password for kato from 192.168.1.33 port 11205 ssh2
+Feb 12 10:33:04 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:08 katoctf CRON[743]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:09 katoctf sudo: www-data : TTY=pts/0 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:12 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:13 katoctf sudo: kato : TTY=pts/3 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:16 katoctf sshd[331]: Failed password for guest from 192.168.1.40 port 11642 ssh2
+Feb 12 10:33:17 katoctf CRON[518]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:19 katoctf CRON[125]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:24 katoctf sshd[688]: Failed password for guest from 192.168.1.48 port 4115 ssh2
+Feb 12 10:33:27 katoctf sshd[473]: Failed password for www-data from 192.168.1.14 port 33037 ssh2
+Feb 12 10:33:28 katoctf sshd[340]: Failed password for admin from 192.168.1.45 port 9219 ssh2
+Feb 12 10:33:32 katoctf CRON[285]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:37 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:42 katoctf systemd: Started Session 5.
+Feb 12 10:33:43 katoctf sshd[542]: Failed password for www-data from 192.168.1.5 port 4979 ssh2
+Feb 12 10:33:47 katoctf CRON[958]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:52 katoctf CRON[841]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:33:55 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:33:58 katoctf systemd: Started Session 7.
+Feb 12 10:34:02 katoctf CRON[506]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:34:06 katoctf CRON[770]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:34:08 katoctf sshd[644]: Failed password for guest from 192.168.1.39 port 23890 ssh2
+Feb 12 10:34:12 katoctf sshd[226]: Failed password for www-data from 192.168.1.29 port 1799 ssh2
+Feb 12 10:34:16 katoctf CRON[441]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:34:17 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:34:22 katoctf systemd: Started Session 11.
+Feb 12 10:34:25 katoctf sshd[378]: Failed password for kato from 192.168.1.17 port 52995 ssh2
+Feb 12 10:34:28 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:34:30 katoctf sshd[625]: Failed password for guest from 192.168.1.21 port 59319 ssh2
+Feb 12 10:34:31 katoctf CRON[530]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:34:32 katoctf CRON[865]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:34:35 katoctf sshd[542]: Failed password for www-data from 192.168.1.41 port 21087 ssh2
+Feb 12 10:34:40 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:34:42 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:34:45 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:34:47 katoctf sshd[365]: Failed password for www-data from 192.168.1.30 port 64603 ssh2
+Feb 12 10:34:50 katoctf sshd[474]: Failed password for www-data from 192.168.1.48 port 30067 ssh2
+Feb 12 10:34:55 katoctf CRON[683]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:35:00 katoctf sshd[752]: Failed password for www-data from 192.168.1.28 port 39883 ssh2
+Feb 12 10:35:02 katoctf sshd[345]: Failed password for guest from 192.168.1.16 port 11681 ssh2
+Feb 12 10:35:05 katoctf sudo: kato : TTY=pts/1 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:35:07 katoctf sshd[557]: Failed password for kato from 192.168.1.47 port 8118 ssh2
+Feb 12 10:35:09 katoctf sshd[468]: Failed password for kato from 192.168.1.9 port 45911 ssh2
+Feb 12 10:35:11 katoctf sudo: guest : TTY=pts/0 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:35:16 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:35:21 katoctf systemd: Started Session 16.
+Feb 12 10:35:25 katoctf sudo: www-data : TTY=pts/1 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:35:30 katoctf systemd: Started Session 7.
+Feb 12 10:35:33 katoctf sshd[300]: Failed password for admin from 192.168.1.20 port 20847 ssh2
+Feb 12 10:35:38 katoctf systemd: Started Session 5.
+Feb 12 10:35:42 katoctf systemd: Started Session 3.
+Feb 12 10:35:45 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:35:48 katoctf CRON[382]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:35:52 katoctf sshd[823]: Failed password for admin from 192.168.1.29 port 23798 ssh2
+Feb 12 10:35:54 katoctf systemd: Started Session 5.
+Feb 12 10:35:58 katoctf CRON[822]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:03 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:36:05 katoctf systemd: Started Session 10.
+Feb 12 10:36:06 katoctf CRON[348]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:07 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:36:08 katoctf CRON[751]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:12 katoctf systemd: Started Session 12.
+Feb 12 10:36:16 katoctf CRON[122]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:18 katoctf CRON[304]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:21 katoctf sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:36:23 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:36:28 katoctf sshd[563]: Failed password for kato from 192.168.1.24 port 64340 ssh2
+Feb 12 10:36:33 katoctf CRON[266]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:38 katoctf CRON[582]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:43 katoctf systemd: Started Session 1.
+Feb 12 10:36:46 katoctf CRON[360]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:50 katoctf CRON[855]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:36:55 katoctf sshd[528]: Failed password for guest from 192.168.1.46 port 58571 ssh2
+Feb 12 10:36:59 katoctf sshd[554]: Failed password for www-data from 192.168.1.33 port 20573 ssh2
+Feb 12 10:37:01 katoctf CRON[122]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:03 katoctf systemd: Started Session 4.
+Feb 12 10:37:06 katoctf sshd[125]: Failed password for kato from 192.168.1.7 port 46635 ssh2
+Feb 12 10:37:08 katoctf CRON[629]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:13 katoctf sudo: www-data : TTY=pts/3 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:37:18 katoctf CRON[485]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:23 katoctf CRON[562]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:28 katoctf CRON[477]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:31 katoctf sshd[626]: Failed password for ubuntu from 192.168.1.30 port 42263 ssh2
+Feb 12 10:37:36 katoctf sudo: guest : TTY=pts/1 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:37:40 katoctf sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:37:44 katoctf CRON[214]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:48 katoctf systemd: Started Session 13.
+Feb 12 10:37:49 katoctf systemd: Started Session 12.
+Feb 12 10:37:52 katoctf systemd: Started Session 12.
+Feb 12 10:37:55 katoctf CRON[882]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:37:57 katoctf systemd: Started Session 13.
+Feb 12 10:38:02 katoctf sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:38:03 katoctf sshd[947]: Failed password for guest from 192.168.1.47 port 23970 ssh2
+Feb 12 10:38:08 katoctf sudo: ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:38:10 katoctf sudo: kato : TTY=pts/2 ; PWD=/home/kato ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:38:11 katoctf systemd: Started Session 5.
+Feb 12 10:38:15 katoctf systemd: Started Session 19.
+Feb 12 10:38:19 katoctf sshd[728]: Failed password for www-data from 192.168.1.29 port 40916 ssh2
+Feb 12 10:38:23 katoctf sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:38:24 katoctf CRON[983]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Feb 12 10:38:28 katoctf sudo: www-data : TTY=pts/2 ; PWD=/home/www-data ; USER=root ; COMMAND=/usr/bin/id
+Feb 12 10:38:31 katoctf sshd[761]: Failed password for admin from 192.168.1.8 port 58407 ssh2
