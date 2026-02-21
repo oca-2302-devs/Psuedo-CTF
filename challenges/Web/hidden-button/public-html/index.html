@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hidden Button</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Where is the flag?</h1>
+    <p>Hint: Something is hidden in plain sight...</p>
+    <button id="FlagBtn">Reveal Flag</button>
+    <p id="flagArea"></p>
+  </div>
+  <script src="config.js"></script>
+  <script>
+    const btn = document.getElementById("FlagBtn");
+    const flagArea = document.getElementById("flagArea");
+
+    btn.addEventListener("click", () => {
+      flagArea.textContent = FLAG;
+    });
+  </script>
+</body>
+
+</html>

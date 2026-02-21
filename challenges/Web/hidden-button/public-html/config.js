@@ -1,0 +1,1 @@
+const FLAG="katoCTF{h1dd3n_butt0n_1s_V3ry_h1DD3n}"
