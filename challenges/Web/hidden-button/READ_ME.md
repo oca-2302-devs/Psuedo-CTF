@@ -20,7 +20,7 @@ display:none はレイアウトから完全に消すためのCSS
 
 `F12` または `ctrl+shift+I`で開発者ツールを開き、
 
-1.`body`の中にある`container`を展開
-2.`FlagBtn`を選択し、`dispaly:none`のチェックを外す
+1. `body`の中にある`container`を展開
+2. `FlagBtn`を選択し、`dispaly:none`のチェックを外す
 ![alt text](./img/answer.png)
-3.表示された`FlagBtn`をクリックし、Flagを表示
+3. 表示された`FlagBtn`をクリックし、Flagを表示
