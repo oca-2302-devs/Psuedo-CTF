@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #009cf7;
+  --secondary-color: #ffffff;
+}
+
+.WhereIsFlag {
+  background-color: color-mix(in srgb, var(--primary-color) 40%, white);
+}
+
+.FlagIsHiding {
+  color: var(--secondary-color);
+}
+
+.HowToCommentOut {
+  color: var(--primary-color);
+}
+
+.LookAtTheSource {
+  font-weight: bold;
+  color: var(--primary-color);
+}
